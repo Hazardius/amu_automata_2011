@@ -757,7 +757,7 @@ public class TestAutomatonSpecification extends TestCase {
 		//test2.1 - normalny na 3 stanach z pojedynczymi przejsciami
         spec.addTransition(q1, q2, new CharTransitionLabel('b'));
         assertEquals(spec.maxWordLength(), 2);
-		//test 3 - pêtla w ramach jednego stanu.
+		//test 3 - petla w ramach jednego stanu.
 		spec.addTransition(q0, q0, new CharTransitionLabel('c'));
 		assertEquals(spec.maxWordLength(), -2);
 		//test 3.1 duza petla
@@ -773,7 +773,7 @@ public class TestAutomatonSpecification extends TestCase {
 		spec1.addTransition(q3, q0, new CharTransitionLabel('a'));
         spec1.addTransition(q2, q3, new CharTransitionLabel('b'));
 		assertEquals(spec1.maxWordLength(), -2);
-		//test 4 same epsilon przejœcia
+		//test 4 same epsilon przejscia
 		NaiveAutomatonSpecification spec2 = new NaiveAutomatonSpecification();
 		State q0 = spec2.addState();
 		State q1 = spec2.addState();
@@ -791,14 +791,14 @@ public class TestAutomatonSpecification extends TestCase {
 		spec2.markAsFinal(q4);
 		spec2.addTransition(q2, q3, new CharTransitionLabel('a'));
         spec2.addTransition(q3, q4, new CharTransitionLabel('b'));
-		assertEquals(spec2.maxWordLength(), 2)
-		//test 4.2 - droga z epsilon przejsciami wiedzie przez wiecej stanów wiec liczac epsilony jest d³uzsza.
+		assertEquals(spec2.maxWordLength(), 2);
+		//test 4.2 - droga z epsilon przejsciami wiedzie przez wiecej stanow wiec liczac epsilony jest dluzsza.
 		State q5 = spec2.addState();
 		State q6 = spec2.addState();
 		spec2.addTransition(q2, q5, new EpsilonTransitionLabel());
         spec2.addTransition(q5, q6, new EpsilonTransitionLabel());
 		spec2.addTransition(q6, q4, new EpsilonTransitionLabel());
-		assertEquals(spec2.maxWordLength(), 2)
+		assertEquals(spec2.maxWordLength(), 2);
 		//test 5 petla z epsilonem
 		NaiveAutomatonSpecification spec3 = new NaiveAutomatonSpecification();
 		State q0 = spec3.addState();
@@ -810,7 +810,7 @@ public class TestAutomatonSpecification extends TestCase {
         spec3.addTransition(q0, q1, new CharTransitionLabel('a'));
         spec3.addTransition(q1, q2, new CharTransitionLabel('b'));
 		assertEquals(spec3.maxWordLength(), 2);
-		//test 6 jedna z galezi automatu wysuwa siê dalej niz stan koncowy.
+		//test 6 jedna z galezi automatu wysuwa sie dalej niz stan koncowy.
 		NaiveAutomatonSpecification spec4 = new NaiveAutomatonSpecification();
 		State q0 = spec4.addState();
 		State q1 = spec4.addState();
