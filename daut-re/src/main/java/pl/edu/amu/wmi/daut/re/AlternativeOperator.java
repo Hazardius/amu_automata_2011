@@ -29,7 +29,7 @@ public class AlternativeOperator extends BinaryRegexpOperator {
         protected RegexpOperator doCreateOperator(List<String> params) {
             return new AlternativeOperator();
         }
-        
+
     }
 
     /**
