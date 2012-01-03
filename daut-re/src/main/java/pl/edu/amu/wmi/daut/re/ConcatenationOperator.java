@@ -19,10 +19,14 @@ public class ConcatenationOperator extends BinaryRegexpOperator {
             AutomatonSpecification rightSubautomaton) {
         return AutomataOperations.concatenation(leftSubautomaton, rightSubautomaton);
     }
-    
+
+    /**
+     * Metoda toString().
+     */
+
     @Override
     public String toString() {
         return "CONCATENATION";
     }
-    
+
 }
