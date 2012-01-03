@@ -38,6 +38,7 @@ public class AnyCharOperator extends NullaryRegexpOperator {
     
     @Override
     public String toString() {
-        return "ANY_CHAR_" + c;
+        return "ANY_CHAR_" + character;
     }
+    
 }
