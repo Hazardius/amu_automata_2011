@@ -51,8 +51,8 @@ public class RegexpOperatorTree {
      * Zwraca drzewo w formie bardziej czytelnej.
      */
     String getHumanReadableFormat() {
-    	StringBuffer toString = new StringBuffer();
-    	Stack<RegexpOperatorTree> stack = new Stack<RegexpOperatorTree>();
+        StringBuffer toString = new StringBuffer();
+        Stack<RegexpOperatorTree> stack = new Stack<RegexpOperatorTree>();
         Stack<RegexpOperatorTree> path = new Stack<RegexpOperatorTree>();
         List<RegexpOperatorTree> drawn = new ArrayList<RegexpOperatorTree>();
         List<RegexpOperatorTree> tempList = new ArrayList<RegexpOperatorTree>();
@@ -107,8 +107,8 @@ public class RegexpOperatorTree {
                 listOfTrees.addAll(temporaryTree.getSubtrees());
 
                 for (RegexpOperatorTree tree : listOfTrees)
-                    if(!drawn.contains(tree))
-                        thereIsSomethingToDraw = true;
+                if(!drawn.contains(tree))
+                    thereIsSomethingToDraw = true;
 
                 if (thereIsSomethingToDraw) {
                     path.push(temporaryTree);
