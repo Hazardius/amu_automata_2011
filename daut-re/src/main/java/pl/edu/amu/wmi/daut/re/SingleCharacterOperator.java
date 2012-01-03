@@ -51,4 +51,10 @@ public class SingleCharacterOperator extends NullaryRegexpOperator {
             return new SingleCharacterOperator(params.get(0).charAt(0));
         }
     }
+    
+    @Override
+    public String toString() {
+        return "SINGLE_OPERATOR_" + character;
+    }
+    
 }

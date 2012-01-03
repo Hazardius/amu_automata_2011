@@ -35,4 +35,10 @@ public class NoDigitOperator extends NullaryRegexpOperator {
             return new NoDigitOperator();
         }
     }
+    
+    @Override
+    public String toString() {
+        return "NO_DIGIT";
+    }
+    
 }
