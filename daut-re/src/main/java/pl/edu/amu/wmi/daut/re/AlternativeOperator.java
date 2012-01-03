@@ -31,7 +31,11 @@ public class AlternativeOperator extends BinaryRegexpOperator {
         }
         
     }
-    
+
+    /**
+     * Metoda toString().
+     */
+
     @Override
     public String toString() {
         return "ALTERNATIVE";
