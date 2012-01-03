@@ -107,7 +107,7 @@ public class RegexpOperatorTree {
                 listOfTrees.addAll(temporaryTree.getSubtrees());
 
                 for (RegexpOperatorTree tree : listOfTrees)
-                if(!drawn.contains(tree))
+                if (!drawn.contains(tree))
                     thereIsSomethingToDraw = true;
 
                 if (thereIsSomethingToDraw) {
@@ -120,7 +120,7 @@ public class RegexpOperatorTree {
 
         }
 
-    	return toString.toString();
+        return toString.toString();
     }
 }
 
