@@ -1,6 +1,5 @@
 package pl.edu.amu.wmi.daut.re;
 
-import java.util.AbstractList;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
