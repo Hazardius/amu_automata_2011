@@ -1028,3 +1028,4 @@ public abstract class AutomatonSpecification implements Cloneable  {
 
 class StructureException extends Exception {
 }
+
