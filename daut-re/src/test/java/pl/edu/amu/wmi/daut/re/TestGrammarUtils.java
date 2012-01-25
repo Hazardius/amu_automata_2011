@@ -1,13 +1,14 @@
-package pl.edu.amu.wmi.daut.re;
+/*package pl.edu.amu.wmi.daut.re;
 
 import java.util.ArrayList;
 import java.util.List;
 import junit.framework.TestCase;
 
 public class TestGrammarUtils extends TestCase {
+*/
 /**
  * Test sprawdzający działanie metody isChomsky().
- */
+ *//*
     public final void testIsChomsky() {
 
         GrammarNonterminalSymbol startSymbol = new GrammarNonterminalSymbol('S');
@@ -52,4 +53,4 @@ public class TestGrammarUtils extends TestCase {
 
         assertTrue(GrammarUtils.isChomsky(grammar2));
     }
-}
+}*/
