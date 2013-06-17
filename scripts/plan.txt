@@ -1,0 +1,1230 @@
+Plan zajêæ na studiach zaocznych i podyplomowych
+Data	Od godz.	Sala 1	Sala 2	Przedmiot	Prowadz¹cy	Godzin	Do godz.
+2011-06-27	09.00	A2-14	 	MRP180 1WA - Rachunek prawdopodoieñstwa	Katulska Krystyna	3	11.15
+2011-06-27	11.30	A2-14	 	DYD182 1WA - Dydaktyka matematyki	Sierocka Janina	3	13.45
+2011-06-27	14.00	A2-14	 	DYD182 1CA - Dydaktyka matematyki	Sierocka Janina	3	16.15
+2011-06-28	09.00	aula A	 	DYD182 1WA - Dydaktyka matematyki	Sierocka Janina	3	11.15
+2011-06-28	11.30	A0-01	 	INT180 1WA - Podstawy informatyki i technologie informacyjne	Dutkiewicz Aldona	1	12.15
+2011-06-28	12.15	A0-01	 	INT180 1CA - Podstawy informatyki i technologie informacyjne	Dutkiewicz Aldona	2	13.45
+2011-06-28	14.00	A0-01	 	INT180 1CA - Podstawy informatyki i technologie informacyjne	Dutkiewicz Aldona	3	16.15
+2011-06-29	09.00	A0-01	 	INT180 1WA - Podstawy informatyki i technologie informacyjne	Dutkiewicz Aldona	3	11.15
+2011-06-29	11.30	A2-14	 	KON180 1CA - Konwersatorium z matematyki szkolnej	Sierocka Janina	3	13.45
+2011-06-29	14.00	A2-14	 	KON180 1CA - Konwersatorium z matematyki szkolnej	Sierocka Janina	3	16.15
+2011-06-30	09.00	A2-14	 	MRP180 1WA - Rachunek prawdopodoieñstwa	Katulska Krystyna	3	11.15
+2011-06-30	11.30	A0-01	 	INT180 1WA - Podstawy informatyki i technologie informacyjne	Dutkiewicz Aldona	3	13.45
+2011-06-30	14.00	A0-01	 	INT180 1CA - Podstawy informatyki i technologie informacyjne	Dutkiewicz Aldona	3	16.15
+2011-07-01	09.00	A2-14	 	DYD182 1CA - Dydaktyka matematyki	Sierocka Janina	3	11.15
+2011-07-01	11.30	A2-14	 	MRP180 1CA - Rachunek prawdopodoieñstwa	Katulska Krystyna	3	13.45
+2011-07-01	14.00	A2-14	 	MRP180 1CA - Rachunek prawdopodoieñstwa	Katulska Krystyna	3	16.15
+2011-07-02	09.00	A2-14	 	MRP180 1CA - Rachunek prawdopodoieñstwa	Katulska Krystyna	3	11.15
+2011-07-02	11.30	A2-14	 	DYD182 1WA - Dydaktyka matematyki	Sierocka Janina	3	13.45
+2011-07-02	14.00	A2-14	 	DYD182 1WA - Dydaktyka matematyki	Sierocka Janina	3	16.15
+2011-07-03	09.00	A0-01	 	INT180 1CA - Podstawy informatyki i technologie informacyjne	Dutkiewicz Aldona	3	11.15
+2011-07-03	11.30	A2-14	 	DYD182 1CA - Dydaktyka matematyki	Sierocka Janina	3	13.45
+2011-07-03	14.00	A2-14	 	DYD182 1CA - Dydaktyka matematyki	Sierocka Janina	3	16.15
+2011-09-17	09.00	A2-24	 	KON180 1CA - Konwersatorium z matematyki szkolnej	Sierocka Janina	3	11.15
+2011-09-17	09.00	A2-14	A2-19	REZ1 1WA - Rezerwacja Fizyka	Machowski Stanis³aw	4	12.15
+2011-09-17	09.00	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Karolak Tomasz	4	12.15
+2011-09-17	11.30	A2-24	 	MRP180 1CA - Rachunek prawdopodoieñstwa	Katulska Krystyna	3	13.45
+2011-09-17	12.30	A2-14	A2-19	REZ1 1WA - Rezerwacja Fizyka	Machowski Stanis³aw	4	15.45
+2011-09-17	12.30	A0-01	 	REZ1 1WA - Rezerwacja Fizyka	Karolak Tomasz	4	15.45
+2011-09-17	14.00	A2-24	 	MRP180 1WA - Rachunek prawdopodoieñstwa	Katulska Krystyna	3	16.15
+2011-09-17	16.00	A2-14	A2-19	REZ1 1WA - Rezerwacja Fizyka	Machowski Stanis³aw	4	19.15
+2011-09-17	16.00	A0-01	 	REZ1 1WA - Rezerwacja Fizyka	Karolak Tomasz	4	19.15
+2011-09-18	09.00	A2-24	 	MRP180 1CA - Rachunek prawdopodoieñstwa	Katulska Krystyna	3	11.15
+2011-09-18	11.30	A2-24	 	DYD182 1WA - Dydaktyka matematyki	Sierocka Janina	3	13.45
+2011-09-18	14.00	A2-24	 	DYD182 1CA - Dydaktyka matematyki	Sierocka Janina	3	16.15
+2011-09-23	13.00	A0-01	 	ZTIE LMO 1CA - Technologia informacyjna w edukacji	Karolak Tomasz	3	15.15
+2011-09-23	15.30	A2-21	 	ZDIN LMO 1WA - Dydaktyka informatyki	Ren-Kurc Anna	3	17.45
+2011-09-23	18.00	A0-01	 	ZDIN LMO 1CA - Dydaktyka informatyki	Ren-Kurc Anna	3	20.15
+2011-09-24	08.15	A2-21	 	ZSOP LMO 1WA - Systemy operacyjne	Hañækowiak Micha³	3	10.30
+2011-09-24	09.00	A0-01	 	INT180 1WA - Podstawy informatyki i technologie informacyjne	Dutkiewicz Aldona	3	11.15
+2011-09-24	09.00	D-1	 	DIN161 1WA - Dydaktyka Informatyki 2	Ko³owska-Gawiejnowicz Miros³awa	3	11.15
+2011-09-24	10.45	A1-14	A1-15	ZSOP LMO 1CA - Systemy operacyjne	Hañækowiak Micha³	3	13.00
+2011-09-24	11.30	A2-24	 	KON180 1CA - Konwersatorium z matematyki szkolnej	Sierocka Janina	3	13.45
+2011-09-24	11.30	D-1	 	PRG160 0CA - Projekt Dyplomowy	Bondecka-Krzykowska Izabela	3	13.45
+2011-09-24	11.30	aula B	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Sierocka Janina	2	13.00
+2011-09-24	13.30	A0-12	 	ZKME LMO 1CA - Konwersatorium z matematyki elementarnej	Maciejewska Aleksandra	3	15.45
+2011-09-24	14.00	A2-24	 	KON180 1CA - Konwersatorium z matematyki szkolnej	Sierocka Janina	3	16.15
+2011-09-24	14.00	D-1	 	PRG160 0CA - Projekt Dyplomowy	Bondecka-Krzykowska Izabela	3	16.15
+2011-09-25	09.00	A0-01	 	INT180 1CA - Podstawy informatyki i technologie informacyjne	Dutkiewicz Aldona	3	11.15
+2011-09-25	09.00	D-1	 	PIO160 0WA - Projektowanie i In¿ynieria Oprogramowania	Pi³ka Tomasz	3	11.15
+2011-09-25	11.30	A2-24	 	MRP180 1WA - Rachunek prawdopodoieñstwa	Katulska Krystyna	3	13.45
+2011-09-25	11.30	D-1	 	PIO160 0WA - Projektowanie i In¿ynieria Oprogramowania	Pi³ka Tomasz	3	13.45
+2011-09-25	14.00	A2-24	 	MRP180 1CA - Rachunek prawdopodoieñstwa	Katulska Krystyna	3	16.15
+2011-09-25	14.00	D-1	 	PIO160 0CA - Projektowanie i In¿ynieria Oprogramowania	Pi³ka Tomasz	3	16.15
+2011-09-30	13.00	A2-24	 	ZMAD LMO 1WA - Matematyka dyskretna	Jaworski Jerzy	3	15.15
+2011-09-30	13.00	A2-21	 	ZANA LM3 1WA - Analiza matematyczna 3	Przybycieñ Hubert	3	15.15
+2011-09-30	13.00	A2-14	 	ZSPE UM2 1WA - Przedmiot specjalizacyjny 2	Cichoñ Mieczys³aw	3	15.15
+2011-09-30	15.30	A2-14	 	ZSPE UM2 1CA - Przedmiot specjalizacyjny 2	Cichoñ Mieczys³aw	3	17.45
+2011-09-30	15.30	A2-24	 	ZDIN LMO 1WA - Dydaktyka informatyki	Ren-Kurc Anna	3	17.45
+2011-09-30	15.30	A2-21	 	ZJAN LM3 1CA - Jêzyk angielski	Leœkiewicz Anna	3	17.45
+2011-09-30	15.30	A2-22	 	ZJAN LM3 1CB - Jêzyk angielski	Kowalewski Tomasz	3	17.45
+2011-09-30	18.00	A2-21	 	ZBAD LMO 1WA - Bazy danych	Kaczmarek Jan	3	20.15
+2011-09-30	18.00	A2-14	 	ZSEM UM3 1CA - Seminarium magiosterskie 3	Kubiaczyk Ireneusz	3	20.15
+2011-09-30	18.00	A2-05	 	ZSEM UM3 1CB - Seminarium magiosterskie 3	Grzybowski Jerzy	3	20.15
+2011-09-30	18.00	A0-01	 	ZDIN LMO 1CA - Dydaktyka informatyki	Ren-Kurc Anna	3	20.15
+2011-10-01	08.15	aula B	 	ANI LI2 1WA - Analiza matematyczna dla informatyków 2	K¹kol Jerzy	3	10.30
+2011-10-01	08.15	A2-24	 	SPE LI2 1WA - Przedmiot specjalizacyjny 2	Szymañski Jerzy	3	10.30
+2011-10-01	08.15	A2-19	 	ZRAP LMO 1WA - Rachunek prawdopodobieñstwa	Wachowiak Jan	3	10.30
+2011-10-01	08.15	A0-01	 	ZTIE LMO 1CA - Technologia informacyjna w edukacji	Karolak Tomasz	3	10.30
+2011-10-01	08.15	A2-21	 	ZFAK UM4 1WA - Przedmiot fakultatywny 4	Michalak Artur	3	10.30
+2011-10-01	09.00	A1-18	 	REZ 0Ca - rezerwacja na zdalne	Ren-Kurc Anna	3	11.15
+2011-10-01	10.45	A2-24	 	STA LIO 1WA - Elementy statystyki	Wo³yñski Waldemar	3	13.00
+2011-10-01	10.45	aula B	 	AUT LIO 1WA - Automaty i jêzyki formalne	Kandulski Maciej	3	13.00
+2011-10-01	10.45	A2-14	 	ZMAD LMO 1CA - Matematyka dyskretna	Jaworski Jerzy	3	13.00
+2011-10-01	10.45	A2-19	 	ZRAP LMO 1CA - Rachunek prawdopodobieñstwa	Wachowiak Jan	3	13.00
+2011-10-01	10.45	A2-21	 	ZFAK UM4 1CA - Przedmiot fakultatywny 4	Michalak Artur	3	13.00
+2011-10-01	11.00	A2-16	A2-17	REZ2 1WA - Rezerwacja - nasi pracownicy	Naskrêcki Bartosz	4	14.15
+2011-10-01	11.30	A1-18	 	REZ 0Ca - rezerwacja na zdalne	Ren-Kurc Anna	3	13.45
+2011-10-01	13.30	aula B	 	BAD LIO 1WA - Bazy danych	Kaczmarek Jan	3	15.45
+2011-10-01	13.30	A2-24	 	HUM LW1 1WA - Przedmiot z nauk humanistycznych	Otto Wojciech	3	15.45
+2011-10-01	13.30	A2-19	 	ZANA LM3 1CA - Analiza matematyczna 3	Przybycieñ Hubert	3	15.45
+2011-10-01	13.30	A2-21	 	ZFAK UM2 1WA - Przedmiot fakultatywny 2	Wachowiak Jan	3	15.45
+2011-10-01	14.30	A2-16	A2-17	REZ2 1WA - Rezerwacja - nasi pracownicy	Naskrêcki Bartosz	2	16.00
+2011-10-01	16.00	A0-01	 	ZBAD LMO 1CA - Bazy danych	Kaczmarek Jan	3	18.15
+2011-10-02	08.15	A2-24	 	TAS LIO 1WA - Technologie aplikacji serwerowych	Kurc Wies³aw	3	10.30
+2011-10-02	08.15	aula B	 	SOP LIO 1WA - Systemy operacyjne	Gogolewski Marcin	3	10.30
+2011-10-02	09.00	A1-18	 	REZ 0Ca - rezerwacja na zdalne	Ren-Kurc Anna	3	11.15
+2011-10-02	10.45	A1-14	A1-15	BAD LIO 1CA - Bazy danych	Pi³ka Tomasz	3	13.00
+2011-10-02	10.45	A1-16	A1-17	SPE LI2 1CB - Przedmiot specjalizacyjny 2	Szymañski Jerzy	3	13.00
+2011-10-02	10.45	A0-01	 	TAS LIO 1CA - Technologie aplikacji serwerowych	Kurc Wies³aw	3	13.00
+2011-10-02	10.45	A2-21	 	ANI LI2 1CB - Analiza matematyczna dla informatyków 2	Tomasz Bernadeta	3	13.00
+2011-10-02	11.30	A1-18	 	REZ 0Ca - rezerwacja na zdalne	Ren-Kurc Anna	3	13.45
+2011-10-02	13.30	A1-14	A1-15	BAD LIO 1CB - Bazy danych	Pi³ka Tomasz	3	15.45
+2011-10-02	13.30	A1-16	A1-17	SPE LI2 1CA - Przedmiot specjalizacyjny 2	Szymañski Jerzy	3	15.45
+2011-10-02	13.30	A0-01	 	TAS LIO 1CB - Technologie aplikacji serwerowych	Kurc Wies³aw	3	15.45
+2011-10-02	13.30	A2-21	 	ANI LI2 1CA - Analiza matematyczna dla informatyków 2	K¹kol Jerzy	3	15.45
+2011-10-07	13.00	A2-24	 	ZMAD LMO 1WA - Matematyka dyskretna	Jaworski Jerzy	3	15.15
+2011-10-07	13.00	A2-22	 	ZPED LM1 1WA - Pedagogika 1	Skipor-Rybacka Irena	3	15.15
+2011-10-07	13.00	A2-14	 	ZFUN UMO 1WA - Funkcje analityczne	Kubiaczyk Ireneusz	3	15.15
+2011-10-07	15.30	A2-22	 	ZPED LM1 1CA - Pedagogika 1	Skipor-Rybacka Irena	3	17.45
+2011-10-07	15.30	A2-19	 	ZTEM UMO 1WA - Teoria miary i ca³ki	Bugajewski Dariusz	3	17.45
+2011-10-07	15.30	A2-24	 	ZWMA LMO 1WA - Wstêp do matematyki	Bondecka-Krzykowska Izabela	3	17.45
+2011-10-07	15.30	A2-14	 	ZROR LM1 1WA - Równania ró¿niczkowe	Kubiaczyk Ireneusz	3	17.45
+2011-10-07	18.00	A0-01	 	ZBAD LMO 1CA - Bazy danych	Kaczmarek Jan	3	20.15
+2011-10-07	18.00	A2-24	 	ZRME LMO 1CA - Repetytorium z matematyki elementarnej	Maciejewska Aleksandra	3	20.15
+2011-10-07	18.00	A2-19	 	ZFAK UM1 1WA - Przedmiot fakultatywny 1	Gajda Wojciech	3	20.15
+2011-10-07	18.00	A2-14	 	ZROR LM1 1CA - Równania ró¿niczkowe	Kubiaczyk Ireneusz	3	20.15
+2011-10-08	08.15	A2-21	 	ZALI LM2 1WA - Algebra liniowa 2	Czarnowski Roman	3	10.30
+2011-10-08	08.15	A2-14	 	ZEMN LMO 1WA - Elementy metod numerycznych	Szulc Tomasz	3	10.30
+2011-10-08	08.15	A2-19	 	ZANF UMO 1WA - Analiza funkcjonalna	K¹kol Jerzy	3	10.30
+2011-10-08	08.15	A2-22	 	ZANA LM1 1WA - Analiza matematyczna 1	Marzantowicz Wac³aw	3	10.30
+2011-10-08	08.15	A2-20	 	ZLPI UIO 1WA - Logiczne podstawy informatyki	Buszkowski Wojciech	3	10.30
+2011-10-08	09.00	A2-24	 	MRP180 1WA - Rachunek prawdopodoieñstwa	Katulska Krystyna	3	11.15
+2011-10-08	10.45	aula A	 	MAD LIO 1WA - Matematyka dyskretna	Jaworski Jerzy	3	13.00
+2011-10-08	10.45	A2-21	 	ZALI LM2 1CA - Algebra liniowa 2	Czarnowski Roman	3	13.00
+2011-10-08	10.45	A2-14	 	ZEMN LMO 1CA - Elementy metod numerycznych	Wojtera-Tyrakowska Dominika	3	13.00
+2011-10-08	10.45	A2-22	 	ZANA LM1 1CA - Analiza matematyczna 1	Marzantowicz Wac³aw	3	13.00
+2011-10-08	10.45	A2-19	 	ZTOP UM0 1WA - Topologia	K¹kol Jerzy	3	13.00
+2011-10-08	10.45	A2-20	 	ZSTD UIO 1WA - Struktury dyskretne	Szymañski Jerzy	3	13.00
+2011-10-08	11.00	A2-16	A2-17	REZ2 1WA - Rezerwacja - nasi pracownicy	Naskrêcki Bartosz	4	14.15
+2011-10-08	11.30	A0-01	 	INT180 1CA - Podstawy informatyki i technologie informacyjne	Dutkiewicz Aldona	3	13.45
+2011-10-08	13.30	aula A	 	PPR LIO 1WA - Podstawy programowania	Szymañski Jerzy	3	15.45
+2011-10-08	13.30	A1-14	A1-15	ZTIE LMO 1CA - Technologia informacyjna w edukacji	Karolak Tomasz	3	15.45
+2011-10-08	13.30	A2-21	 	ZRAP LMO 1WA - Rachunek prawdopodobieñstwa	Wachowiak Jan	3	15.45
+2011-10-08	13.30	A2-19	 	ZSEM UM1 1CA - Seminarium magisterskie 1	Kubiaczyk Ireneusz	3	15.45
+2011-10-08	13.30	A2-22	 	ZALG LMO 1WA - Wstêp do algebry i teorii liczb	Czarnowski Roman	3	15.45
+2011-10-08	13.30	A2-20	 	ZASI UIO 1WA - Analiza wybranych systemów informatycznych	Wydzia³ Wydzia³	3	15.45
+2011-10-08	14.00	A0-01	 	INT180 1CA - Podstawy informatyki i technologie informacyjne	Dutkiewicz Aldona	3	16.15
+2011-10-08	14.30	A2-16	A2-17	REZ2 1WA - Rezerwacja - nasi pracownicy	Naskrêcki Bartosz	2	16.00
+2011-10-09	08.15	A1-14	A1-15	PPR LIO 1CB - Podstawy programowania	Szymañski Jerzy	3	10.30
+2011-10-09	08.15	A2-23	 	MAD LIO 1CA - Matematyka dyskretna	Jaworski Jerzy	3	10.30
+2011-10-09	08.15	A2-14	 	JAN LI1 1CC - Jêzyk angielski	Grygiel Grzegorz	3	10.30
+2011-10-09	08.15	A2-21	 	ZTSI UI1 1WA - Tworzenie systemów informatycznych	Gogolewski Marcin	3	10.30
+2011-10-09	09.00	A2-24	 	MRP180 1CA - Rachunek prawdopodoieñstwa	Katulska Krystyna	3	11.15
+2011-10-09	10.45	A1-14	A1-15	PPR LIO 1CC - Podstawy programowania	Szymañski Jerzy	3	13.00
+2011-10-09	10.45	A2-23	 	MAD LIO 1CB - Matematyka dyskretna	Jaworski Jerzy	3	13.00
+2011-10-09	10.45	A2-14	 	JAN LI1 1CA - Jêzyk angielski	Grygiel Grzegorz	3	13.00
+2011-10-09	10.45	A0-01	A0-01	ZLPI UIO 1CB - Logiczne podstawy informatyki	Ko³owska-Gawiejnowicz Miros³awa	3	13.00
+2011-10-09	10.45	A1-16	A1-17	ZTSI UI1 1CA - Tworzenie systemów informatycznych	Pi³ka Tomasz	3	13.00
+2011-10-09	11.30	A2-24	 	MRP180 1CA - Rachunek prawdopodoieñstwa	Katulska Krystyna	3	13.45
+2011-10-09	13.30	A1-14	A1-15	PPR LIO 1CA - Podstawy programowania	Szymañski Jerzy	3	15.45
+2011-10-09	13.30	A2-23	 	MAD LIO 1CC - Matematyka dyskretna	Nitschke £ukasz	3	15.45
+2011-10-09	13.30	A2-14	 	JAN LI1 1CB - Jêzyk angielski	Grygiel Grzegorz	3	15.45
+2011-10-09	13.30	A0-01	A0-01	ZLPI UIO 1CA - Logiczne podstawy informatyki	Ko³owska-Gawiejnowicz Miros³awa	3	15.45
+2011-10-09	13.30	A1-16	A1-17	ZTSI UI1 1CB - Tworzenie systemów informatycznych	Pi³ka Tomasz	3	15.45
+2011-10-14	13.00	A2-19	 	ZMAD LMO 1WA - Matematyka dyskretna	Jaworski Jerzy	3	15.15
+2011-10-14	13.00	A2-14	 	ZANF UMO 1WA - Analiza funkcjonalna	K¹kol Jerzy	3	15.15
+2011-10-14	13.00	A2-21	 	ZANA LM3 1WA - Analiza matematyczna 3	Przybycieñ Hubert	3	15.15
+2011-10-14	13.00	A2-24	 	ZJAN LM1 1CA - Jêzyk obcy 1	Kowalewski Tomasz	3	15.15
+2011-10-14	13.00	A0-11	 	ZJAN UM2 1CA - Jêzyk angielski 2	Powêska Monika	3	15.15
+2011-10-14	13.00	A2-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Bednarska-Bzdêga Ma³gorzata	3	15.15
+2011-10-14	13.00	A2-22	 	ZJAN LM1 1CB - Jêzyk obcy 1	Leœkiewicz Anna	3	15.15
+2011-10-14	15.30	A0-01	A0-01	ZTEI LMO 1WA - Technologia informacyjna	Adamczak Magdalena	3	17.45
+2011-10-14	15.30	A2-19	 	ZEMG LMO 1WA - Emisja g³osu	Gulczyñska Justyna	3	17.45
+2011-10-14	15.30	A2-14	 	ZANF UMO 1CA - Analiza funkcjonalna	Uetake Yoichi	3	17.45
+2011-10-14	15.30	A2-20	 	ZSPE UM3 1WA - Przedmiot specjalizacyjny 3	Sikorska-Nowak Aneta	3	17.45
+2011-10-14	15.30	A2-21	 	ZJAN LM3 1CA - Jêzyk angielski	Leœkiewicz Anna	3	17.45
+2011-10-14	15.30	A2-22	 	ZJAN LM3 1CB - Jêzyk angielski	Kowalewski Tomasz	3	17.45
+2011-10-14	18.00	A0-01	 	ZTEI LMO 1CA - Technologia informacyjna	Adamczak Magdalena	3	20.15
+2011-10-14	18.00	A2-19	 	ZEMG LMO 1CA - Emisja g³osu	Gulczyñska Justyna	3	20.15
+2011-10-14	18.00	A2-21	 	ZANA LM3 1CA - Analiza matematyczna 3	Przybycieñ Hubert	3	20.15
+2011-10-14	18.00	A2-20	 	ZSPE UM3 1CA - Przedmiot specjalizacyjny 3	Sikorska-Nowak Aneta	3	20.15
+2011-10-14	18.00	A2-14	 	ZFUN UMO 1CA - Funkcje analityczne	Rzonsowski Piotr	3	20.15
+2011-10-15	08.15	A2-21	 	SPE LI3 1WA - Przedmiot specjalizacyjny 3	Grzeœkowiak Maciej	3	10.30
+2011-10-15	08.15	aula B	 	AUT LIO 1WA - Automaty i jêzyki formalne	Kandulski Maciej	3	10.30
+2011-10-15	08.15	A1-14	A1-15	ZBAD LMO 1CA - Bazy danych	Kaczmarek Jan	3	10.30
+2011-10-15	08.15	A1-22	A1-23	REZ2 1WA - Rezerwacja - nasi pracownicy	Wo³yñski Waldemar	3	10.30
+2011-10-15	08.15	A1-16	A1-17	ZSOP LMO 1CA - Systemy operacyjne	Hañækowiak Micha³	3	10.30
+2011-10-15	08.15	A2-14	 	ZANA LM1 1WA - Analiza matematyczna 1	Marzantowicz Wac³aw	3	10.30
+2011-10-15	08.15	A2-04	 	ZKME UMO 1CA - Konwersatoerium z matematyki elementarnej	Nowiñska Edyta	3	10.30
+2011-10-15	08.15	A2-22	 	ZFAK UM1 1WA - Przedmiot fakultatywny 1	Gajda Wojciech	3	10.30
+2011-10-15	08.15	A2-23	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Jaworski Jerzy	3	10.30
+2011-10-15	09.00	A2-24	 	MRP180 1CA - Rachunek prawdopodoieñstwa	Katulska Krystyna	3	11.15
+2011-10-15	09.00	D-1	 	PIO160 0WA - Projektowanie i In¿ynieria Oprogramowania	Pi³ka Tomasz	3	11.15
+2011-10-15	10.00	A1-24	A1-25	REZ2 1WA - Rezerwacja - nasi pracownicy	Rezerwacja R	4	13.15
+2011-10-15	10.45	A1-16	A1-17	STA LIO 1CA - Elementy statystyki	Wo³yñski Waldemar	3	13.00
+2011-10-15	10.45	A1-14	A1-15	SPE LI3 1CB - Przedmiot specjalizacyjny 3	Grzeœkowiak Maciej	3	13.00
+2011-10-15	10.45	A2-19	 	AUT LIO 1CB - Automaty i jêzyki formalne	Kandulski Maciej	3	13.00
+2011-10-15	10.45	A2-14	 	JAN LI3 1CA - Jêzyk angielski 3	Znaniecki Przemys³aw	3	13.00
+2011-10-15	10.45	A0-12	 	ZPED LM1 1WA - Pedagogika 1	Skipor-Rybacka Irena	3	13.00
+2011-10-15	10.45	A2-08	 	ZANA LM1 1CA - Analiza matematyczna 1	Marzantowicz Wac³aw	3	13.00
+2011-10-15	10.45	A2-22	 	ZFAK UM1 1CA - Przedmiot fakultatywny 1	Gajda Wojciech	3	13.00
+2011-10-15	10.45	A2-21	 	ZSOP LMO 1WA - Systemy operacyjne	Hañækowiak Micha³	3	13.00
+2011-10-15	10.45	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Hañækowiak Micha³	4	14.00
+2011-10-15	10.45	A2-04	 	ZKME UMO 1CA - Konwersatoerium z matematyki elementarnej	Nowiñska Edyta	3	13.00
+2011-10-15	11.00	A2-16	A2-17	REZ2 1WA - Rezerwacja - nasi pracownicy	Naskrêcki Bartosz	4	14.15
+2011-10-15	11.30	A2-24	 	MRP180 1CA - Rachunek prawdopodoieñstwa	Katulska Krystyna	3	13.45
+2011-10-15	11.30	D-1	 	PIO160 0CA - Projektowanie i In¿ynieria Oprogramowania	Pi³ka Tomasz	3	13.45
+2011-10-15	13.30	A1-16	A1-17	STA LIO 1CB - Elementy statystyki	Wo³yñski Waldemar	3	15.45
+2011-10-15	13.30	A1-14	A1-15	SPE LI3 1CA - Przedmiot specjalizacyjny 3	Grzeœkowiak Maciej	3	15.45
+2011-10-15	13.30	A2-19	 	AUT LIO 1CA - Automaty i jêzyki formalne	Kandulski Maciej	3	15.45
+2011-10-15	13.30	A2-14	 	JAN LI3 1CB - Jêzyk angielski 3	Znaniecki Przemys³aw	3	15.45
+2011-10-15	13.30	A1-22	A1-23	ZFAK UM2 1CA - Przedmiot fakultatywny 2	Wachowiak Jan	3	15.45
+2011-10-15	13.30	A2-21	 	ZMAD LMO 1WA - Matematyka dyskretna	Jaworski Jerzy	3	15.45
+2011-10-15	13.30	A0-12	 	ZPED LM1 1CA - Pedagogika 1	Skipor-Rybacka Irena	3	15.45
+2011-10-15	13.30	A2-08	 	ZRME LMO 1CA - Repetytorium z matematyki elementarnej	Maciejewska Aleksandra	3	15.45
+2011-10-15	13.30	A2-22	 	ZTEM UMO 1CA - Teoria miary i ca³ki	Michalak Artur	3	15.45
+2011-10-15	13.30	A1-24	A1-25	REZ2 1WA - Rezerwacja - nasi pracownicy	Rezerwacja R	4	16.45
+2011-10-15	14.00	D-1	 	PIO160 0CA - Projektowanie i In¿ynieria Oprogramowania	Pi³ka Tomasz	3	16.15
+2011-10-15	14.30	A2-16	A2-17	REZ2 1WA - Rezerwacja - nasi pracownicy	Naskrêcki Bartosz	2	16.00
+2011-10-15	14.30	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Hañækowiak Micha³	2	16.00
+2011-10-15	16.00	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kowalewski Wojciech	2	17.30
+2011-10-16	08.15	A2-21	 	MEN LWO 1WA - Elementy metod numerycznych	Szulc Tomasz	3	10.30
+2011-10-16	08.15	aula B	 	KCK LIO 1WA - Komunikacja cz³owiek-komputer	Kowalewski Wojciech	3	10.30
+2011-10-16	08.15	A2-23	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Gogolewski Marcin	3	10.30
+2011-10-16	09.00	D-1	 	PRG160 0CA - Projekt Dyplomowy	Bondecka-Krzykowska Izabela	3	11.15
+2011-10-16	09.00	A1-24	A1-25	REZ2 1WA - Rezerwacja - nasi pracownicy	Rezerwacja R	4	12.15
+2011-10-16	09.00	A1-16	A1-18	REZ2 1WA - Rezerwacja - nasi pracownicy	Rezerwacja R	4	12.15
+2011-10-16	10.45	A1-22	A1-23	KCK LIO 1CB - Komunikacja cz³owiek-komputer	Gdala Tomasz	3	13.00
+2011-10-16	10.45	A1-14	A1-15	SOP LIO 1CA - Systemy operacyjne	Gogolewski Marcin	3	13.00
+2011-10-16	10.45	A0-01	 	TAS LIO 1CA - Technologie aplikacji serwerowych	Kurc Wies³aw	3	13.00
+2011-10-16	10.45	A2-21	 	MEN LWO 1CB - Elementy metod numerycznych	Wojtera-Tyrakowska Dominika	3	13.00
+2011-10-16	11.30	D-1	 	DIN161 1WA - Dydaktyka Informatyki 2	Ko³owska-Gawiejnowicz Miros³awa	3	13.45
+2011-10-16	12.30	A1-16	A1-18	REZ2 1WA - Rezerwacja - nasi pracownicy	Rezerwacja R	4	15.45
+2011-10-16	12.30	A1-24	A1-25	REZ2 1WA - Rezerwacja - nasi pracownicy	Rezerwacja R	4	15.45
+2011-10-16	13.30	A1-22	A1-23	KCK LIO 1CA - Komunikacja cz³owiek-komputer	Gdala Tomasz	3	15.45
+2011-10-16	13.30	A1-14	A1-15	SOP LIO 1CB - Systemy operacyjne	Gogolewski Marcin	3	15.45
+2011-10-16	13.30	A0-01	 	TAS LIO 1CB - Technologie aplikacji serwerowych	Kurc Wies³aw	3	15.45
+2011-10-16	13.30	A2-21	 	MEN LWO 1CA - Elementy metod numerycznych	Wojtera-Tyrakowska Dominika	3	15.45
+2011-10-16	14.00	D-1	 	DIN161 1WA - Dydaktyka Informatyki 2	Ko³owska-Gawiejnowicz Miros³awa	3	16.15
+2011-10-16	16.00	A1-24	A1-25	REZ2 1WA - Rezerwacja - nasi pracownicy	Rezerwacja R	4	19.15
+2011-10-16	16.00	A1-16	A1-18	REZ2 1WA - Rezerwacja - nasi pracownicy	Rezerwacja R	4	19.15
+2011-10-21	13.00	A2-24	 	ZPED LM1 1WA - Pedagogika 1	Skipor-Rybacka Irena	3	15.15
+2011-10-21	13.00	A2-22	 	ZALG LMO 1WA - Wstêp do algebry i teorii liczb	Czarnowski Roman	3	15.15
+2011-10-21	13.00	A2-14	 	ZDIN LMO 1WA - Dydaktyka informatyki	Ren-Kurc Anna	3	15.15
+2011-10-21	13.00	A2-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Bednarska-Bzdêga Ma³gorzata	3	15.15
+2011-10-21	13.00	aula B	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Pawa³owski Krzysztof	3	15.15
+2011-10-21	13.45	A1-16	A1-17	REZ2 1WA - Rezerwacja - nasi pracownicy	Juskowiak Edyta	3	16.00
+2011-10-21	15.30	A2-24	 	ZBAD LMO 1WA - Bazy danych	Kaczmarek Jan	3	17.45
+2011-10-21	15.30	A2-22	 	ZALG LMO 1CA - Wstêp do algebry i teorii liczb	Czarnowski Roman	3	17.45
+2011-10-21	15.30	A0-01	 	ZDIN LMO 1CA - Dydaktyka informatyki	Ren-Kurc Anna	3	17.45
+2011-10-21	18.00	A1-14	A1-15	ZTIE LMO 1CA - Technologia informacyjna w edukacji	Karolak Tomasz	3	20.15
+2011-10-21	18.00	A0-01	 	ZBAD LMO 1CA - Bazy danych	Kaczmarek Jan	3	20.15
+2011-10-21	18.00	A2-22	 	ZJAN LM1 1CA - Jêzyk obcy 1	Kowalewski Tomasz	3	20.15
+2011-10-21	18.00	A2-23	 	ZJAN LM1 1CB - Jêzyk obcy 1	Leœkiewicz Anna	3	20.15
+2011-10-22	08.15	aula B	 	ANI LI2 1WA - Analiza matematyczna dla informatyków 2	K¹kol Jerzy	3	10.30
+2011-10-22	08.15	aula A	 	LOG LIO 1WA - Podstawy logiki i teorii mnogoœci	Murawski Roman	3	10.30
+2011-10-22	08.15	A2-14	 	ZANA LM1 1WA - Analiza matematyczna 1	Marzantowicz Wac³aw	3	10.30
+2011-10-22	08.15	A2-22	 	ZANA LM3 1WA - Analiza matematyczna 3	Przybycieñ Hubert	3	10.30
+2011-10-22	08.15	A0-12	 	ZKME LMO 1CA - Konwersatorium z matematyki elementarnej	Maciejewska Aleksandra	3	10.30
+2011-10-22	08.15	A2-24	 	ZWSP UI3 1WA - Przedmiot specjalizacyjny 2	Palka Zbigniew	3	10.30
+2011-10-22	08.15	A2-19	 	ZFAK UIO 1WA - Przedmiot fakultatywny 1	Kurc Wies³aw	3	10.30
+2011-10-22	10.45	A1-14	A1-15	BAD LIO 1CB - Bazy danych	Pi³ka Tomasz	3	13.00
+2011-10-22	10.45	A2-22	 	ANI LI2 1CA - Analiza matematyczna dla informatyków 2	K¹kol Jerzy	3	13.00
+2011-10-22	10.45	aula A	 	ALI LIO 1WA - Wstêp do algebry liniowej i geometrii	Szulc Tomasz	3	13.00
+2011-10-22	10.45	A2-21	 	ZMAD LMO 1CA - Matematyka dyskretna	Jaworski Jerzy	3	13.00
+2011-10-22	10.45	A2-24	 	ZSEM UI3 1CA - Seminarium magisterskie 3	Wydzia³ Wydzia³	3	13.00
+2011-10-22	10.45	A2-14	 	ZANA LM1 1CA - Analiza matematyczna 1	Marzantowicz Wac³aw	3	13.00
+2011-10-22	10.45	A2-19	 	ZANA LM3 1CA - Analiza matematyczna 3	Przybycieñ Hubert	3	13.00
+2011-10-22	10.45	A1-22	A1-23	ZFAK UIO 1CB - Przedmiot fakultatywny 1	Gdala Tomasz	3	13.00
+2011-10-22	10.45	A1-16	A1-17	ZSTD UIO 1CA - Struktury dyskretne	Szymañski Jerzy	3	13.00
+2011-10-22	10.45	A2-23	 	ZSEM UI3 1CB - Seminarium magisterskie 3	Kurc Wies³aw	3	13.00
+2011-10-22	11.00	A2-16	A2-17	REZ2 1WA - Rezerwacja - nasi pracownicy	Naskrêcki Bartosz	4	14.15
+2011-10-22	13.30	A1-14	A1-15	BAD LIO 1CA - Bazy danych	Pi³ka Tomasz	3	15.45
+2011-10-22	13.30	aula A	 	MAD LIO 1WA - Matematyka dyskretna	Jaworski Jerzy	3	15.45
+2011-10-22	13.30	A2-22	 	ANI LI2 1CB - Analiza matematyczna dla informatyków 2	Tomasz Bernadeta	3	15.45
+2011-10-22	13.30	A2-19	 	ZRAP LMO 1CA - Rachunek prawdopodobieñstwa	Wachowiak Jan	3	15.45
+2011-10-22	13.30	A2-21	 	ZEMN LMO 1WA - Elementy metod numerycznych	Szulc Tomasz	3	15.45
+2011-10-22	13.30	A2-24	 	ZMON UIO 1WA - Przedmiot monograficzny	Grzeœkowiak Maciej	3	15.45
+2011-10-22	13.30	A2-14	 	ZWMA LMO 1CA - Wstêp do matematyki	Migda Janusz	3	15.45
+2011-10-22	13.30	A1-22	A1-23	ZFAK UIO 1CA - Przedmiot fakultatywny 1	Gdala Tomasz	3	15.45
+2011-10-22	13.30	A1-16	A1-17	ZSTD UIO 1CB - Struktury dyskretne	Szymañski Jerzy	3	15.45
+2011-10-22	14.30	A2-16	A2-17	REZ2 1WA - Rezerwacja - nasi pracownicy	Naskrêcki Bartosz	2	16.00
+2011-10-22	16.00	aula B	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Marciniec Jacek	3	18.15
+2011-10-23	08.15	A1-14	A1-15	PPR LIO 1CC - Podstawy programowania	Szymañski Jerzy	3	10.30
+2011-10-23	08.15	aula B	 	BAD LIO 1WA - Bazy danych	Kaczmarek Jan	3	10.30
+2011-10-23	08.15	A2-24	 	LOG LIO 1CA - Podstawy logiki i teorii mnogoœci	Murawski Roman	3	10.30
+2011-10-23	08.15	A2-14	 	ALI LIO 1CB - Wstêp do algebry liniowej i geometrii	Werbiñski Tadeusz	3	10.30
+2011-10-23	08.15	A1-24	A1-25	ZMON UIO 1CB - Przedmiot monograficzny	Grzeœkowiak Maciej	3	10.30
+2011-10-23	08.15	A2-22	A2-22	ZWSP UI3 1CA - Przedmiot specjalizacyjny 2	Palka Zbigniew	3	10.30
+2011-10-23	08.15	A2-21	 	ZASI UIO 1WA - Analiza wybranych systemów informatycznych	Wydzia³ Wydzia³	3	10.30
+2011-10-23	10.45	A1-16	A1-17	BAD LIO 1CB - Bazy danych	Pi³ka Tomasz	3	13.00
+2011-10-23	10.45	A1-14	A1-15	PPR LIO 1CA - Podstawy programowania	Szymañski Jerzy	3	13.00
+2011-10-23	10.45	A2-24	 	LOG LIO 1CB - Podstawy logiki i teorii mnogoœci	Murawski Roman	3	13.00
+2011-10-23	10.45	A2-14	 	ALI LIO 1CC - Wstêp do algebry liniowej i geometrii	Werbiñski Tadeusz	3	13.00
+2011-10-23	10.45	A2-20	 	JAN LI3 1CA - Jêzyk angielski 3	Znaniecki Przemys³aw	3	13.00
+2011-10-23	10.45	A1-24	A1-25	ZMON UIO 1CA - Przedmiot monograficzny	Grzeœkowiak Maciej	3	13.00
+2011-10-23	10.45	A2-22	A2-22	ZWSP UI3 1CB - Przedmiot specjalizacyjny 2	Palka Zbigniew	3	13.00
+2011-10-23	10.45	A2-21	 	ZLPI UIO 1WA - Logiczne podstawy informatyki	Buszkowski Wojciech	3	13.00
+2011-10-23	13.30	A1-16	A1-17	BAD LIO 1CA - Bazy danych	Pi³ka Tomasz	3	15.45
+2011-10-23	13.30	A1-14	A1-15	PPR LIO 1CB - Podstawy programowania	Szymañski Jerzy	3	15.45
+2011-10-23	13.30	A2-24	 	LOG LIO 1CC - Podstawy logiki i teorii mnogoœci	Murawski Roman	3	15.45
+2011-10-23	13.30	A2-14	 	ALI LIO 1CA - Wstêp do algebry liniowej i geometrii	Werbiñski Tadeusz	3	15.45
+2011-10-23	13.30	A2-20	 	JAN LI3 1CB - Jêzyk angielski 3	Znaniecki Przemys³aw	3	15.45
+2011-10-23	13.30	A1-22	A1-23	ZPRO UIO 1CA - Projekt - magisterski	Wydzia³ Wydzia³	3	15.45
+2011-10-23	13.30	A2-21	 	ZSEM UI1 1CA - Seminarium magisterskie 1	Palka Zbigniew	3	15.45
+2011-10-28	13.45	A1-16	A1-17	REZ2 1WA - Rezerwacja - nasi pracownicy	Juskowiak Edyta	3	16.00
+2011-10-29	09.00	aula A	aula B	REZ2 1WA - Rezerwacja - nasi pracownicy	Rezerwacja R	4	12.15
+2011-10-29	09.00	aula C	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Rezerwacja R	4	12.15
+2011-10-29	12.30	aula A	aula B	REZ2 1WA - Rezerwacja - nasi pracownicy	Rezerwacja R	4	15.45
+2011-10-29	12.30	aula C	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Rezerwacja R	4	15.45
+2011-10-29	16.00	aula A	aula B	REZ2 1WA - Rezerwacja - nasi pracownicy	Rezerwacja R	2	17.30
+2011-10-29	16.00	aula C	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Rezerwacja R	2	17.30
+2011-11-04	13.00	A1-14	A1-15	ZTEI LMO 1WA - Technologia informacyjna	Adamczak Magdalena	3	15.15
+2011-11-04	13.00	A0-01	 	ZTIE LMO 1CA - Technologia informacyjna w edukacji	Karolak Tomasz	3	15.15
+2011-11-04	13.00	A2-23	 	ZFUN UMO 1WA - Funkcje analityczne	Kubiaczyk Ireneusz	3	15.15
+2011-11-04	13.00	A2-22	 	ZJAN LM3 1CA - Jêzyk angielski	Leœkiewicz Anna	3	15.15
+2011-11-04	13.00	A0-11	 	ZJAN UM2 1CA - Jêzyk angielski 2	Powêska Monika	3	15.15
+2011-11-04	13.00	A2-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Bednarska-Bzdêga Ma³gorzata	3	15.15
+2011-11-04	13.00	A2-24	 	ZJAN LM3 1CB - Jêzyk angielski	Kowalewski Tomasz	3	15.15
+2011-11-04	15.30	A0-01	 	ZTEI LMO 1CA - Technologia informacyjna	Adamczak Magdalena	3	17.45
+2011-11-04	15.30	A2-22	 	ZALI LM2 1WA - Algebra liniowa 2	Czarnowski Roman	3	17.45
+2011-11-04	15.30	A2-23	 	ZTOP UM0 1CA - Topologia	Stachowiak-Gni³ka Danuta	3	17.45
+2011-11-04	15.30	A2-19	 	ZSPE UM2 1WA - Przedmiot specjalizacyjny 2	Cichoñ Mieczys³aw	3	17.45
+2011-11-04	15.30	A2-05	 	ZROR LM1 1WA - Równania ró¿niczkowe	Kubiaczyk Ireneusz	3	17.45
+2011-11-04	18.00	A2-22	 	ZALI LM2 1CA - Algebra liniowa 2	Czarnowski Roman	3	20.15
+2011-11-04	18.00	A2-23	 	ZANF UMO 1CA - Analiza funkcjonalna	Uetake Yoichi	3	20.15
+2011-11-04	18.00	A2-19	 	ZSPE UM2 1CA - Przedmiot specjalizacyjny 2	Cichoñ Mieczys³aw	3	20.15
+2011-11-04	18.00	A2-24	 	ZJAN LM1 1CA - Jêzyk obcy 1	Kowalewski Tomasz	3	20.15
+2011-11-04	18.00	A2-05	 	ZROR LM1 1CA - Równania ró¿niczkowe	Kubiaczyk Ireneusz	3	20.15
+2011-11-04	18.00	A2-21	 	ZJAN LM1 1CB - Jêzyk obcy 1	Leœkiewicz Anna	3	20.15
+2011-11-05	08.00	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kurc Wies³aw	3	10.15
+2011-11-05	08.15	aula B	 	ANI LI2 1WA - Analiza matematyczna dla informatyków 2	K¹kol Jerzy	3	10.30
+2011-11-05	08.15	aula A	 	NIF LIO 1WA - Podstawowe pojêcia i narzêdzia informatyki	Kaczmarek Jan	3	10.30
+2011-11-05	08.15	A2-21	 	HUM LW1 1WA - Przedmiot z nauk humanistycznych	Otto Wojciech	3	10.30
+2011-11-05	08.15	A2-23	A2-23	ZWSP UI3 1CA - Przedmiot specjalizacyjny 2	Palka Zbigniew	3	10.30
+2011-11-05	08.15	A2-04	 	ZMAD LMO 1WA - Matematyka dyskretna	Jaworski Jerzy	3	10.30
+2011-11-05	08.15	A2-19	 	ZRAP LMO 1WA - Rachunek prawdopodobieñstwa	Wachowiak Jan	3	10.30
+2011-11-05	08.15	A2-14	 	ZSEM UM1 1CA - Seminarium magisterskie 1	Kubiaczyk Ireneusz	3	10.30
+2011-11-05	08.15	A2-08	 	ZKME UMO 1CA - Konwersatoerium z matematyki elementarnej	Nowiñska Edyta	3	10.30
+2011-11-05	08.15	A2-24	 	ZWMA LMO 1WA - Wstêp do matematyki	Bondecka-Krzykowska Izabela	3	10.30
+2011-11-05	08.15	A1-22	A1-23	ZMON UIO 1CB - Przedmiot monograficzny	Grzeœkowiak Maciej	3	10.30
+2011-11-05	08.15	A2-22	 	ZSTD UIO 1WA - Struktury dyskretne	Szymañski Jerzy	3	10.30
+2011-11-05	09.00	D-1	 	REZ 0Ca - rezerwacja na zdalne	Ren-Kurc Anna	3	11.15
+2011-11-05	09.00	aula C	 	ALP180 1WA - Algebra	Szulc Tomasz	3	11.15
+2011-11-05	10.30	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kurc Wies³aw	3	12.45
+2011-11-05	10.45	A1-14	A1-15	BAD LIO 1CB - Bazy danych	Pi³ka Tomasz	3	13.00
+2011-11-05	10.45	aula A	 	MAD LIO 1WA - Matematyka dyskretna	Jaworski Jerzy	3	13.00
+2011-11-05	10.45	A2-21	 	ANI LI2 1CA - Analiza matematyczna dla informatyków 2	K¹kol Jerzy	3	13.00
+2011-11-05	10.45	A2-24	 	SPE LI2 1WA - Przedmiot specjalizacyjny 2	Szymañski Jerzy	3	13.00
+2011-11-05	10.45	A2-23	A2-23	ZWSP UI3 1CB - Przedmiot specjalizacyjny 2	Palka Zbigniew	3	13.00
+2011-11-05	10.45	A2-19	 	ZRAP LMO 1CA - Rachunek prawdopodobieñstwa	Wachowiak Jan	3	13.00
+2011-11-05	10.45	A2-08	 	ZSEM UM3 1CA - Seminarium magiosterskie 3	Kubiaczyk Ireneusz	3	13.00
+2011-11-05	10.45	A2-04	 	ZWMA LMO 1CA - Wstêp do matematyki	Migda Janusz	3	13.00
+2011-11-05	10.45	A2-20	 	ZFUN UMO 1CA - Funkcje analityczne	Rzonsowski Piotr	3	13.00
+2011-11-05	10.45	A2-14	 	ZSOP LMO 1WA - Systemy operacyjne	Hañækowiak Micha³	3	13.00
+2011-11-05	10.45	A1-22	A1-23	ZMON UIO 1CA - Przedmiot monograficzny	Grzeœkowiak Maciej	3	13.00
+2011-11-05	10.45	A2-05	 	ZSEM UM3 1CB - Seminarium magiosterskie 3	Grzybowski Jerzy	3	13.00
+2011-11-05	10.45	A2-22	 	ZASI UIO 1WA - Analiza wybranych systemów informatycznych	Wydzia³ Wydzia³	3	13.00
+2011-11-05	11.00	A2-16	A2-17	REZ2 1WA - Rezerwacja - nasi pracownicy	Naskrêcki Bartosz	4	14.15
+2011-11-05	11.30	D-1	 	REZ 0Ca - rezerwacja na zdalne	Ren-Kurc Anna	3	13.45
+2011-11-05	11.30	aula C	 	ALP180 1CA - Algebra	Werbiñski Tadeusz	3	13.45
+2011-11-05	13.00	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kurc Wies³aw	3	15.15
+2011-11-05	13.30	A1-14	A1-15	BAD LIO 1CA - Bazy danych	Pi³ka Tomasz	3	15.45
+2011-11-05	13.30	A2-21	 	ANI LI2 1CB - Analiza matematyczna dla informatyków 2	Tomasz Bernadeta	3	15.45
+2011-11-05	13.30	aula A	 	PPR LIO 1WA - Podstawy programowania	Szymañski Jerzy	3	15.45
+2011-11-05	13.30	A2-24	 	SPE LI3 1WA - Przedmiot specjalizacyjny 3	Grzeœkowiak Maciej	3	15.45
+2011-11-05	13.30	A1-16	A1-17	ZSOP LMO 1CA - Systemy operacyjne	Hañækowiak Micha³	3	15.45
+2011-11-05	13.30	A2-19	 	ZPED LM1 1CA - Pedagogika 1	Skipor-Rybacka Irena	3	15.45
+2011-11-05	13.30	A2-04	 	ZRME LMO 1CA - Repetytorium z matematyki elementarnej	Maciejewska Aleksandra	3	15.45
+2011-11-05	13.30	A2-14	 	ZTOP UM0 1WA - Topologia	K¹kol Jerzy	3	15.45
+2011-11-05	13.30	A2-20	 	ZFAK UM2 1WA - Przedmiot fakultatywny 2	Wachowiak Jan	3	15.45
+2011-11-05	13.30	A1-22	A1-23	ZPRO UIO 1CA - Projekt - magisterski	Wydzia³ Wydzia³	3	15.45
+2011-11-05	13.30	A2-22	 	ZSEM UI1 1CA - Seminarium magisterskie 1	Palka Zbigniew	3	15.45
+2011-11-05	14.00	aula C	 	ALP180 1CA - Algebra	Werbiñski Tadeusz	3	16.15
+2011-11-05	14.30	A2-16	A2-17	REZ2 1WA - Rezerwacja - nasi pracownicy	Nawrocki Marek	2	16.00
+2011-11-05	15.30	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kurc Wies³aw	3	17.45
+2011-11-06	08.00	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kurc Wies³aw	3	10.15
+2011-11-06	08.15	A1-14	A1-15	PPR LIO 1CB - Podstawy programowania	Szymañski Jerzy	3	10.30
+2011-11-06	08.15	A2-24	 	MAD LIO 1CA - Matematyka dyskretna	Jaworski Jerzy	3	10.30
+2011-11-06	08.15	aula B	 	KCK LIO 1WA - Komunikacja cz³owiek-komputer	Kowalewski Wojciech	3	10.30
+2011-11-06	08.15	A2-23	 	HUM LW1 1WA - Przedmiot z nauk humanistycznych	Otto Wojciech	3	10.30
+2011-11-06	08.15	A2-20	 	JAN LI1 1CC - Jêzyk angielski	Grygiel Grzegorz	3	10.30
+2011-11-06	08.15	A2-22	 	ZMON UIO 1WA - Przedmiot monograficzny	Grzeœkowiak Maciej	3	10.30
+2011-11-06	08.15	A2-21	 	ZTSI UI1 1WA - Tworzenie systemów informatycznych	Gogolewski Marcin	3	10.30
+2011-11-06	09.00	D-1	 	REZ 0Ca - rezerwacja na zdalne	Ren-Kurc Anna	3	11.15
+2011-11-06	09.00	aula C	 	ANP181 1WA - Analiza matematyczna	K¹kol Jerzy	3	11.15
+2011-11-06	10.30	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kurc Wies³aw	3	12.45
+2011-11-06	10.45	A1-24	A1-25	KCK LIO 1CB - Komunikacja cz³owiek-komputer	Gdala Tomasz	3	13.00
+2011-11-06	10.45	A1-14	A1-15	PPR LIO 1CC - Podstawy programowania	Szymañski Jerzy	3	13.00
+2011-11-06	10.45	A1-22	A1-23	SPE LI3 1CB - Przedmiot specjalizacyjny 3	Grzeœkowiak Maciej	3	13.00
+2011-11-06	10.45	A1-16	A1-17	SOP LIO 1CA - Systemy operacyjne	Gogolewski Marcin	3	13.00
+2011-11-06	10.45	A2-24	 	MAD LIO 1CB - Matematyka dyskretna	Jaworski Jerzy	3	13.00
+2011-11-06	10.45	A2-23	 	MEN LWO 1CA - Elementy metod numerycznych	Wojtera-Tyrakowska Dominika	3	13.00
+2011-11-06	10.45	A2-20	 	JAN LI1 1CA - Jêzyk angielski	Grygiel Grzegorz	3	13.00
+2011-11-06	10.45	A2-21	 	ZLPI UIO 1WA - Logiczne podstawy informatyki	Buszkowski Wojciech	3	13.00
+2011-11-06	10.45	A2-22	 	ZWSP UI3 1WA - Przedmiot specjalizacyjny 2	Palka Zbigniew	3	13.00
+2011-11-06	11.30	D-1	 	REZ 0Ca - rezerwacja na zdalne	Ren-Kurc Anna	3	13.45
+2011-11-06	11.30	aula C	 	ANP181 1CA - Analiza matematyczna	Piszczek Krzysztof	3	13.45
+2011-11-06	13.00	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kurc Wies³aw	3	15.15
+2011-11-06	13.30	A1-24	A1-25	KCK LIO 1CA - Komunikacja cz³owiek-komputer	Gdala Tomasz	3	15.45
+2011-11-06	13.30	A1-14	A1-15	PPR LIO 1CA - Podstawy programowania	Szymañski Jerzy	3	15.45
+2011-11-06	13.30	A1-22	A1-23	SPE LI3 1CA - Przedmiot specjalizacyjny 3	Grzeœkowiak Maciej	3	15.45
+2011-11-06	13.30	A1-16	A1-17	SOP LIO 1CB - Systemy operacyjne	Gogolewski Marcin	3	15.45
+2011-11-06	13.30	A2-24	 	MAD LIO 1CC - Matematyka dyskretna	Nitschke £ukasz	3	15.45
+2011-11-06	13.30	A2-23	 	MEN LWO 1CB - Elementy metod numerycznych	Wojtera-Tyrakowska Dominika	3	15.45
+2011-11-06	13.30	A2-20	 	JAN LI1 1CB - Jêzyk angielski	Grygiel Grzegorz	3	15.45
+2011-11-06	13.30	A2-22	 	ZSEM UI3 1CA - Seminarium magisterskie 3	Wydzia³ Wydzia³	3	15.45
+2011-11-06	13.30	A2-19	 	ZSEM UI3 1CB - Seminarium magisterskie 3	Kurc Wies³aw	3	15.45
+2011-11-06	13.30	A2-21	 	ZASI UIO 1WA - Analiza wybranych systemów informatycznych	Wydzia³ Wydzia³	3	15.45
+2011-11-06	14.00	aula C	 	ANP181 1CA - Analiza matematyczna	Piszczek Krzysztof	3	16.15
+2011-11-06	15.30	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kurc Wies³aw	2	17.00
+2011-11-06	16.00	A1-14	A1-15	ZSTD UIO 1CA - Struktury dyskretne	Szymañski Jerzy	3	18.15
+2011-11-18	13.00	A2-19	 	ZPED LM1 1WA - Pedagogika 1	Skipor-Rybacka Irena	3	15.15
+2011-11-18	13.00	A2-22	 	ZDIN LMO 1WA - Dydaktyka informatyki	Ren-Kurc Anna	3	15.15
+2011-11-18	13.00	A2-24	 	ZJAN LM1 1CA - Jêzyk obcy 1	Kowalewski Tomasz	3	15.15
+2011-11-18	13.00	A2-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Bednarska-Bzdêga Ma³gorzata	3	15.15
+2011-11-18	13.00	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Skrzypczak Leszek	3	15.15
+2011-11-18	13.00	A2-14	 	ZSPE UM2 1WA - Przedmiot specjalizacyjny 2	Cichoñ Mieczys³aw	3	15.15
+2011-11-18	13.00	A2-23	 	ZJAN LM1 1CB - Jêzyk obcy 1	Leœkiewicz Anna	3	15.15
+2011-11-18	13.45	A1-16	A1-17	REZ2 1WA - Rezerwacja - nasi pracownicy	Juskowiak Edyta	3	16.00
+2011-11-18	15.30	A2-19	 	ZBAD LMO 1WA - Bazy danych	Kaczmarek Jan	3	17.45
+2011-11-18	15.30	A2-24	 	ZALG LMO 1WA - Wstêp do algebry i teorii liczb	Czarnowski Roman	3	17.45
+2011-11-18	15.30	A0-01	 	ZDIN LMO 1CA - Dydaktyka informatyki	Ren-Kurc Anna	3	17.45
+2011-11-18	15.30	A2-14	 	ZSPE UM2 1CA - Przedmiot specjalizacyjny 2	Cichoñ Mieczys³aw	3	17.45
+2011-11-18	18.00	A1-16	A1-17	ZTIE LMO 1CA - Technologia informacyjna w edukacji	Karolak Tomasz	3	20.15
+2011-11-18	18.00	A0-01	 	ZBAD LMO 1CA - Bazy danych	Kaczmarek Jan	3	20.15
+2011-11-18	18.00	A2-24	 	ZALG LMO 1CA - Wstêp do algebry i teorii liczb	Czarnowski Roman	3	20.15
+2011-11-18	18.00	A2-14	 	ZSPE UM3 1CA - Przedmiot specjalizacyjny 3	Sikorska-Nowak Aneta	3	20.15
+2011-11-19	08.00	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kurc Wies³aw	3	10.15
+2011-11-19	08.15	A2-21	 	STA LIO 1WA - Elementy statystyki	Wo³yñski Waldemar	3	10.30
+2011-11-19	08.15	aula B	 	ANI LI2 1WA - Analiza matematyczna dla informatyków 2	K¹kol Jerzy	3	10.30
+2011-11-19	08.15	aula A	 	LOG LIO 1WA - Podstawy logiki i teorii mnogoœci	Murawski Roman	3	10.30
+2011-11-19	08.15	A2-19	 	ZRAP LMO 1WA - Rachunek prawdopodobieñstwa	Wachowiak Jan	3	10.30
+2011-11-19	08.15	A2-24	 	ZANA LM1 1WA - Analiza matematyczna 1	Marzantowicz Wac³aw	3	10.30
+2011-11-19	08.15	A0-12	 	ZKME LMO 1CA - Konwersatorium z matematyki elementarnej	Maciejewska Aleksandra	3	10.30
+2011-11-19	08.15	A2-14	 	ZKME UMO 1CA - Konwersatoerium z matematyki elementarnej	Nowiñska Edyta	3	10.30
+2011-11-19	08.15	A2-23	 	ZMON UIO 1WA - Przedmiot monograficzny	Grzeœkowiak Maciej	3	10.30
+2011-11-19	09.00	D-1	 	PRG160 0CA - Projekt Dyplomowy	Bondecka-Krzykowska Izabela	3	11.15
+2011-11-19	09.00	A2-22	 	ANP181 1CA - Analiza matematyczna	Piszczek Krzysztof	3	11.15
+2011-11-19	10.30	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kurc Wies³aw	3	12.45
+2011-11-19	10.45	A1-16	A1-17	STA LIO 1CB - Elementy statystyki	Wo³yñski Waldemar	3	13.00
+2011-11-19	10.45	A1-14	A1-15	SPE LI2 1CA - Przedmiot specjalizacyjny 2	Szymañski Jerzy	3	13.00
+2011-11-19	10.45	aula A	 	MAD LIO 1WA - Matematyka dyskretna	Jaworski Jerzy	3	13.00
+2011-11-19	10.45	A2-21	 	AUT LIO 1CA - Automaty i jêzyki formalne	Kandulski Maciej	3	13.00
+2011-11-19	10.45	A2-20	 	JAN LI3 1CB - Jêzyk angielski 3	Znaniecki Przemys³aw	3	13.00
+2011-11-19	10.45	A2-19	 	ZRAP LMO 1CA - Rachunek prawdopodobieñstwa	Wachowiak Jan	3	13.00
+2011-11-19	10.45	A2-14	 	ZEMN LMO 1CA - Elementy metod numerycznych	Wojtera-Tyrakowska Dominika	3	13.00
+2011-11-19	10.45	A2-24	 	ZANA LM1 1CA - Analiza matematyczna 1	Marzantowicz Wac³aw	3	13.00
+2011-11-19	10.45	A1-24	A1-25	ZTXL UI0 1CB - Technologie XML	Pi³ka Tomasz	3	13.00
+2011-11-19	10.45	A1-22	A1-23	ZMON UIO 1CA - Przedmiot monograficzny	Grzeœkowiak Maciej	3	13.00
+2011-11-19	10.45	A2-04	 	ZKME UMO 1CA - Konwersatoerium z matematyki elementarnej	Nowiñska Edyta	3	13.00
+2011-11-19	11.00	A2-16	A2-17	REZ2 1WA - Rezerwacja - nasi pracownicy	Naskrêcki Bartosz	4	14.15
+2011-11-19	11.30	D-1	 	DIN161 1WA - Dydaktyka Informatyki 2	Ko³owska-Gawiejnowicz Miros³awa	3	13.45
+2011-11-19	11.30	A2-22	 	ANP181 1CA - Analiza matematyczna	Piszczek Krzysztof	3	13.45
+2011-11-19	13.00	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kurc Wies³aw	3	15.15
+2011-11-19	13.30	A1-16	A1-17	STA LIO 1CA - Elementy statystyki	Wo³yñski Waldemar	3	15.45
+2011-11-19	13.30	A1-14	A1-15	SPE LI2 1CB - Przedmiot specjalizacyjny 2	Szymañski Jerzy	3	15.45
+2011-11-19	13.30	aula A	 	ALI LIO 1WA - Wstêp do algebry liniowej i geometrii	Szulc Tomasz	3	15.45
+2011-11-19	13.30	A2-21	 	AUT LIO 1CB - Automaty i jêzyki formalne	Kandulski Maciej	3	15.45
+2011-11-19	13.30	A2-20	 	JAN LI3 1CA - Jêzyk angielski 3	Znaniecki Przemys³aw	3	15.45
+2011-11-19	13.30	A2-14	 	ZMAD LMO 1CA - Matematyka dyskretna	Jaworski Jerzy	3	15.45
+2011-11-19	13.30	A2-24	 	ZRME LMO 1CA - Repetytorium z matematyki elementarnej	Maciejewska Aleksandra	3	15.45
+2011-11-19	13.30	A2-19	 	ZANA LM3 1WA - Analiza matematyczna 3	Przybycieñ Hubert	3	15.45
+2011-11-19	13.30	A1-24	A1-25	ZTXL UI0 1CA - Technologie XML	Pi³ka Tomasz	3	15.45
+2011-11-19	13.30	A1-22	A1-23	ZMON UIO 1CB - Przedmiot monograficzny	Grzeœkowiak Maciej	3	15.45
+2011-11-19	13.30	A2-04	 	ZFAK UM4 1WA - Przedmiot fakultatywny 4	Michalak Artur	3	15.45
+2011-11-19	14.00	D-1	 	DIN161 1WA - Dydaktyka Informatyki 2	Ko³owska-Gawiejnowicz Miros³awa	3	16.15
+2011-11-19	14.30	A2-16	A2-17	REZ2 1WA - Rezerwacja - nasi pracownicy	Naskrêcki Bartosz	2	16.00
+2011-11-19	15.15	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kurc Wies³aw	1	16.00
+2011-11-19	16.00	A2-21	 	ZTXL UI0 1WA - Technologie XML	Ren-Kurc Anna	3	18.15
+2011-11-20	08.00	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kurc Wies³aw	3	10.15
+2011-11-20	08.15	A1-14	A1-15	NIF LIO 1CC - Podstawowe pojêcia i narzêdzia informatyki	Kaczmarek Jan	3	10.30
+2011-11-20	08.15	A2-23	 	MAD LIO 1CB - Matematyka dyskretna	Jaworski Jerzy	3	10.30
+2011-11-20	08.15	A2-24	 	LOG LIO 1CA - Podstawy logiki i teorii mnogoœci	Murawski Roman	3	10.30
+2011-11-20	08.15	A2-22	 	HUM LW1 1WA - Przedmiot z nauk humanistycznych	Otto Wojciech	3	10.30
+2011-11-20	08.15	aula B	 	SOP LIO 1WA - Systemy operacyjne	Gogolewski Marcin	3	10.30
+2011-11-20	09.00	D-1	 	DIN161 1WA - Dydaktyka Informatyki 2	Ko³owska-Gawiejnowicz Miros³awa	3	11.15
+2011-11-20	09.00	A2-21	 	ALP180 1WA - Algebra	Werbiñski Tadeusz	3	11.15
+2011-11-20	10.30	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kurek Andrzej	3	12.45
+2011-11-20	10.45	A1-22	A1-23	BAD LIO 1CB - Bazy danych	Pi³ka Tomasz	3	13.00
+2011-11-20	10.45	A1-14	A1-15	NIF LIO 1CA - Podstawowe pojêcia i narzêdzia informatyki	Kaczmarek Jan	3	13.00
+2011-11-20	10.45	A1-24	A1-25	SPE LI3 1CB - Przedmiot specjalizacyjny 3	Grzeœkowiak Maciej	3	13.00
+2011-11-20	10.45	A1-16	A1-17	SOP LIO 1CA - Systemy operacyjne	Gogolewski Marcin	3	13.00
+2011-11-20	10.45	A2-23	 	MAD LIO 1CC - Matematyka dyskretna	Nitschke £ukasz	3	13.00
+2011-11-20	10.45	A2-22	 	MEN LWO 1CA - Elementy metod numerycznych	Wojtera-Tyrakowska Dominika	3	13.00
+2011-11-20	10.45	A2-24	 	LOG LIO 1CB - Podstawy logiki i teorii mnogoœci	Murawski Roman	3	13.00
+2011-11-20	11.30	D-1	 	DIN161 1WA - Dydaktyka Informatyki 2	Ko³owska-Gawiejnowicz Miros³awa	3	13.45
+2011-11-20	11.30	A2-21	 	ALP180 1CA - Algebra	Werbiñski Tadeusz	3	13.45
+2011-11-20	13.00	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kurc Wies³aw	3	15.15
+2011-11-20	13.30	A1-22	A1-23	BAD LIO 1CA - Bazy danych	Pi³ka Tomasz	3	15.45
+2011-11-20	13.30	A1-14	A1-15	NIF LIO 1CB - Podstawowe pojêcia i narzêdzia informatyki	Kaczmarek Jan	3	15.45
+2011-11-20	13.30	A1-24	A1-25	SPE LI3 1CA - Przedmiot specjalizacyjny 3	Grzeœkowiak Maciej	3	15.45
+2011-11-20	13.30	A1-16	A1-17	SOP LIO 1CB - Systemy operacyjne	Gogolewski Marcin	3	15.45
+2011-11-20	13.30	A2-23	 	MAD LIO 1CA - Matematyka dyskretna	Jaworski Jerzy	3	15.45
+2011-11-20	13.30	A2-22	 	MEN LWO 1CB - Elementy metod numerycznych	Wojtera-Tyrakowska Dominika	3	15.45
+2011-11-20	13.30	A2-24	 	LOG LIO 1CC - Podstawy logiki i teorii mnogoœci	Murawski Roman	3	15.45
+2011-11-20	14.00	A2-21	 	ALP180 1CA - Algebra	Werbiñski Tadeusz	3	16.15
+2011-11-20	15.30	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kurc Wies³aw	2	17.00
+2011-11-25	13.00	A2-22	 	ZBAD LMO 1WA - Bazy danych	Kaczmarek Jan	3	15.15
+2011-11-25	13.00	A2-14	 	ZFAK UM1 1WA - Przedmiot fakultatywny 1	Gajda Wojciech	3	15.15
+2011-11-25	13.00	A2-24	 	ZSPE UM3 1WA - Przedmiot specjalizacyjny 3	Sikorska-Nowak Aneta	3	15.15
+2011-11-25	13.00	A2-23	 	ZJAN LM1 1CA - Jêzyk obcy 1	Kowalewski Tomasz	3	15.15
+2011-11-25	13.00	A2-21	 	ZROR LM1 1WA - Równania ró¿niczkowe	Kubiaczyk Ireneusz	3	15.15
+2011-11-25	13.00	A2-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Bednarska-Bzdêga Ma³gorzata	3	15.15
+2011-11-25	13.00	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Skrzypczak Leszek	3	15.15
+2011-11-25	13.00	A2-19	 	ZJAN LM1 1CB - Jêzyk obcy 1	Leœkiewicz Anna	3	15.15
+2011-11-25	13.45	A1-16	A1-17	REZ2 1WA - Rezerwacja - nasi pracownicy	Rezerwacja R	3	16.00
+2011-11-25	15.15	aula A	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Rezerwacja R	3	17.30
+2011-11-25	15.30	A1-14	A1-15	ZTEI LMO 1WA - Technologia informacyjna	Adamczak Magdalena	3	17.45
+2011-11-25	15.30	A0-01	 	ZBAD LMO 1CA - Bazy danych	Kaczmarek Jan	3	17.45
+2011-11-25	15.30	A2-14	 	ZFAK UM1 1CA - Przedmiot fakultatywny 1	Gajda Wojciech	3	17.45
+2011-11-25	15.30	A2-24	 	ZSPE UM3 1CA - Przedmiot specjalizacyjny 3	Sikorska-Nowak Aneta	3	17.45
+2011-11-25	15.30	A2-21	 	ZROR LM1 1CA - Równania ró¿niczkowe	Kubiaczyk Ireneusz	3	17.45
+2011-11-25	18.00	A1-14	A1-15	ZFAK UM2 1CA - Przedmiot fakultatywny 2	Wachowiak Jan	3	20.15
+2011-11-25	18.00	A2-21	 	ZMAD LMO 1CA - Matematyka dyskretna	Jaworski Jerzy	3	20.15
+2011-11-25	18.00	A2-23	 	ZPED LM1 1CA - Pedagogika 1	Skipor-Rybacka Irena	3	20.15
+2011-11-25	18.00	A0-01	 	ZTEI LMO 1CA - Technologia informacyjna	Adamczak Magdalena	3	20.15
+2011-11-25	18.00	A2-14	 	ZFUN UMO 1WA - Funkcje analityczne	Kubiaczyk Ireneusz	3	20.15
+2011-11-26	08.15	aula B	 	ANI LI2 1WA - Analiza matematyczna dla informatyków 2	K¹kol Jerzy	3	10.30
+2011-11-26	08.15	aula A	 	PPR LIO 1WA - Podstawy programowania	Szymañski Jerzy	3	10.30
+2011-11-26	08.15	A2-20	 	ZMAD LMO 1WA - Matematyka dyskretna	Jaworski Jerzy	3	10.30
+2011-11-26	08.15	A2-22	 	ZTEM UMO 1WA - Teoria miary i ca³ki	Bugajewski Dariusz	3	10.30
+2011-11-26	08.15	A2-19	 	ZALI LM2 1WA - Algebra liniowa 2	Czarnowski Roman	3	10.30
+2011-11-26	08.15	A2-14	 	ZANA LM1 1WA - Analiza matematyczna 1	Marzantowicz Wac³aw	3	10.30
+2011-11-26	08.15	A2-05	 	ZFAK UM4 1WA - Przedmiot fakultatywny 4	Michalak Artur	3	10.30
+2011-11-26	08.15	A2-23	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Nowiñska Edyta	3	10.30
+2011-11-26	08.15	A2-21	 	ZTSI UI1 1WA - Tworzenie systemów informatycznych	Gogolewski Marcin	3	10.30
+2011-11-26	10.45	aula A	 	MAD LIO 1WA - Matematyka dyskretna	Jaworski Jerzy	3	13.00
+2011-11-26	10.45	A2-24	 	ANI LI2 1CA - Analiza matematyczna dla informatyków 2	K¹kol Jerzy	3	13.00
+2011-11-26	10.45	A2-20	 	JAN LI3 1CB - Jêzyk angielski 3	Znaniecki Przemys³aw	3	13.00
+2011-11-26	10.45	A2-21	 	ZTEM UMO 1CA - Teoria miary i ca³ki	Michalak Artur	3	13.00
+2011-11-26	10.45	A2-19	 	ZALI LM2 1CA - Algebra liniowa 2	Czarnowski Roman	3	13.00
+2011-11-26	10.45	A2-22	 	ZEMG LMO 1WA - Emisja g³osu	Gulczyñska Justyna	3	13.00
+2011-11-26	10.45	A2-14	 	ZANA LM1 1CA - Analiza matematyczna 1	Marzantowicz Wac³aw	3	13.00
+2011-11-26	10.45	A2-05	 	ZKME UMO 1CA - Konwersatoerium z matematyki elementarnej	Nowiñska Edyta	3	13.00
+2011-11-26	10.45	A1-14	A1-15	ZSTD UIO 1CA - Struktury dyskretne	Szymañski Jerzy	3	13.00
+2011-11-26	10.45	A1-16	A1-17	ZTSI UI1 1CB - Tworzenie systemów informatycznych	Pi³ka Tomasz	3	13.00
+2011-11-26	11.00	A2-16	A2-17	REZ2 1WA - Rezerwacja - nasi pracownicy	Naskrêcki Bartosz	4	14.15
+2011-11-26	13.30	A2-24	 	ANI LI2 1CB - Analiza matematyczna dla informatyków 2	Tomasz Bernadeta	3	15.45
+2011-11-26	13.30	aula A	 	NIF LIO 1WA - Podstawowe pojêcia i narzêdzia informatyki	Kaczmarek Jan	3	15.45
+2011-11-26	13.30	A2-20	 	JAN LI3 1CA - Jêzyk angielski 3	Znaniecki Przemys³aw	3	15.45
+2011-11-26	13.30	A2-14	 	ZRME LMO 1CA - Repetytorium z matematyki elementarnej	Maciejewska Aleksandra	3	15.45
+2011-11-26	13.30	A2-22	 	ZEMG LMO 1CA - Emisja g³osu	Gulczyñska Justyna	3	15.45
+2011-11-26	13.30	A2-21	 	ZANF UMO 1WA - Analiza funkcjonalna	K¹kol Jerzy	3	15.45
+2011-11-26	13.30	A2-19	 	ZANA LM3 1CA - Analiza matematyczna 3	Przybycieñ Hubert	3	15.45
+2011-11-26	13.30	A1-14	A1-15	ZSTD UIO 1CB - Struktury dyskretne	Szymañski Jerzy	3	15.45
+2011-11-26	13.30	A1-16	A1-17	ZTSI UI1 1CA - Tworzenie systemów informatycznych	Pi³ka Tomasz	3	15.45
+2011-11-26	13.30	A0-11	 	ZJAN UM2 1CA - Jêzyk angielski 2	Powêska Monika	3	15.45
+2011-11-26	14.30	A2-16	A2-17	REZ2 1WA - Rezerwacja - nasi pracownicy	Naskrêcki Bartosz	2	16.00
+2011-11-26	16.00	A2-21	 	ZANF UMO 1CA - Analiza funkcjonalna	Uetake Yoichi	3	18.15
+2011-11-27	08.15	A1-14	A1-15	PPR LIO 1CB - Podstawy programowania	Szymañski Jerzy	3	10.30
+2011-11-27	08.15	A2-24	 	ALI LIO 1CA - Wstêp do algebry liniowej i geometrii	Werbiñski Tadeusz	3	10.30
+2011-11-27	08.15	aula B	 	AUT LIO 1WA - Automaty i jêzyki formalne	Kandulski Maciej	3	10.30
+2011-11-27	08.15	A2-14	 	JAN LI1 1CC - Jêzyk angielski	Grygiel Grzegorz	3	10.30
+2011-11-27	08.15	A2-23	 	ZLPI UIO 1WA - Logiczne podstawy informatyki	Buszkowski Wojciech	3	10.30
+2011-11-27	10.45	A1-16	A1-17	BAD LIO 1CB - Bazy danych	Pi³ka Tomasz	3	13.00
+2011-11-27	10.45	A1-14	A1-15	PPR LIO 1CC - Podstawy programowania	Szymañski Jerzy	3	13.00
+2011-11-27	10.45	A2-24	 	ALI LIO 1CB - Wstêp do algebry liniowej i geometrii	Werbiñski Tadeusz	3	13.00
+2011-11-27	10.45	A2-23	 	AUT LIO 1CA - Automaty i jêzyki formalne	Kandulski Maciej	3	13.00
+2011-11-27	10.45	A2-14	 	JAN LI1 1CA - Jêzyk angielski	Grygiel Grzegorz	3	13.00
+2011-11-27	10.45	A1-22	A1-23	ZLPI UIO 1CA - Logiczne podstawy informatyki	Ko³owska-Gawiejnowicz Miros³awa	3	13.00
+2011-11-27	10.45	A1-24	A1-25	ZFAK UIO 1CB - Przedmiot fakultatywny 1	Gdala Tomasz	3	13.00
+2011-11-27	12.00	A2-21	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Gogolewski Marcin	3	14.15
+2011-11-27	13.30	A1-16	A1-17	BAD LIO 1CA - Bazy danych	Pi³ka Tomasz	3	15.45
+2011-11-27	13.30	A1-14	A1-15	PPR LIO 1CA - Podstawy programowania	Szymañski Jerzy	3	15.45
+2011-11-27	13.30	A2-24	 	ALI LIO 1CC - Wstêp do algebry liniowej i geometrii	Werbiñski Tadeusz	3	15.45
+2011-11-27	13.30	A2-23	 	AUT LIO 1CB - Automaty i jêzyki formalne	Kandulski Maciej	3	15.45
+2011-11-27	13.30	A2-14	 	JAN LI1 1CB - Jêzyk angielski	Grygiel Grzegorz	3	15.45
+2011-11-27	13.30	A1-22	A1-23	ZLPI UIO 1CB - Logiczne podstawy informatyki	Ko³owska-Gawiejnowicz Miros³awa	3	15.45
+2011-11-27	13.30	A1-24	A1-25	ZFAK UIO 1CA - Przedmiot fakultatywny 1	Gdala Tomasz	3	15.45
+2011-12-02	13.00	A1-18	A1-22	REZ2 1WA - Rezerwacja - nasi pracownicy	Kalkowski Maciej	4	16.15
+2011-12-02	13.00	A1-24	A1-25	REZ2 1WA - Rezerwacja - nasi pracownicy	Kalkowski Maciej	4	16.15
+2011-12-02	13.00	A1-14	A1-16	REZ2 1WA - Rezerwacja - nasi pracownicy	Kalkowski Maciej	4	16.15
+2011-12-02	13.00	A2-24	 	ZANA LM3 1WA - Analiza matematyczna 3	Przybycieñ Hubert	3	15.15
+2011-12-02	13.00	A2-23	 	ZWMA LMO 1WA - Wstêp do matematyki	Bondecka-Krzykowska Izabela	3	15.15
+2011-12-02	13.00	A2-21	 	ZDIN LMO 1WA - Dydaktyka informatyki	Ren-Kurc Anna	3	15.15
+2011-12-02	13.00	A2-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Bednarska-Bzdêga Ma³gorzata	3	15.15
+2011-12-02	15.30	A2-23	 	ZALG LMO 1CA - Wstêp do algebry i teorii liczb	Czarnowski Roman	3	17.45
+2011-12-02	15.30	A0-01	 	ZDIN LMO 1CA - Dydaktyka informatyki	Ren-Kurc Anna	3	17.45
+2011-12-02	15.30	A2-24	 	ZJAN LM3 1CA - Jêzyk angielski	Leœkiewicz Anna	3	17.45
+2011-12-02	15.30	A2-21	 	ZJAN LM3 1CB - Jêzyk angielski	Kowalewski Tomasz	3	17.45
+2011-12-02	16.30	A1-18	A1-22	REZ2 1WA - Rezerwacja - nasi pracownicy	Kalkowski Maciej	4	19.45
+2011-12-02	16.30	A1-24	A1-25	REZ2 1WA - Rezerwacja - nasi pracownicy	Kalkowski Maciej	4	19.45
+2011-12-02	16.30	A1-14	A1-16	REZ2 1WA - Rezerwacja - nasi pracownicy	Kalkowski Maciej	4	19.45
+2011-12-02	18.00	A0-01	 	ZTIE LMO 1CA - Technologia informacyjna w edukacji	Karolak Tomasz	3	20.15
+2011-12-02	18.00	A2-24	 	ZANA LM3 1CA - Analiza matematyczna 3	Przybycieñ Hubert	3	20.15
+2011-12-02	18.00	A2-23	 	ZJAN LM1 1CA - Jêzyk obcy 1	Kowalewski Tomasz	3	20.15
+2011-12-02	18.00	A2-21	 	ZJAN LM1 1CB - Jêzyk obcy 1	Leœkiewicz Anna	3	20.15
+2011-12-03	08.15	aula B	 	ANI LI2 1WA - Analiza matematyczna dla informatyków 2	K¹kol Jerzy	3	10.30
+2011-12-03	08.15	aula A	 	ALI LIO 1WA - Wstêp do algebry liniowej i geometrii	Szulc Tomasz	3	10.30
+2011-12-03	08.15	A0-01	A1-14	REZ2 1WA - Rezerwacja - nasi pracownicy	Kalkowski Maciej	4	11.30
+2011-12-03	08.15	A1-22	A1-24	REZ2 1WA - Rezerwacja - nasi pracownicy	Kalkowski Maciej	4	11.30
+2011-12-03	08.15	A1-16	A1-18	REZ2 1WA - Rezerwacja - nasi pracownicy	Kalkowski Maciej	4	11.30
+2011-12-03	08.15	A2-19	 	ZMAD LMO 1WA - Matematyka dyskretna	Jaworski Jerzy	3	10.30
+2011-12-03	08.15	A2-14	 	ZRAP LMO 1WA - Rachunek prawdopodobieñstwa	Wachowiak Jan	3	10.30
+2011-12-03	08.15	A2-22	 	ZANA LM1 1WA - Analiza matematyczna 1	Marzantowicz Wac³aw	3	10.30
+2011-12-03	08.15	D-1	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kurc Wies³aw	4	11.30
+2011-12-03	08.15	A2-23	 	ZSEM UI3 1CA - Seminarium magisterskie 3	Wydzia³ Wydzia³	3	10.30
+2011-12-03	08.15	A2-20	 	ZSEM UI3 1CB - Seminarium magisterskie 3	Kurc Wies³aw	3	10.30
+2011-12-03	08.15	A2-21	 	ZSTD UIO 1WA - Struktury dyskretne	Szymañski Jerzy	3	10.30
+2011-12-03	09.00	A2-24	 	ALP180 1CA - Algebra	Werbiñski Tadeusz	3	11.15
+2011-12-03	10.45	aula A	 	PPR LIO 1WA - Podstawy programowania	Szymañski Jerzy	3	13.00
+2011-12-03	10.45	aula B	 	SOP LIO 1WA - Systemy operacyjne	Gogolewski Marcin	3	13.00
+2011-12-03	10.45	A2-14	 	ZRAP LMO 1CA - Rachunek prawdopodobieñstwa	Wachowiak Jan	3	13.00
+2011-12-03	10.45	A2-19	 	ZEMN LMO 1WA - Elementy metod numerycznych	Szulc Tomasz	3	13.00
+2011-12-03	10.45	A2-22	 	ZANA LM1 1CA - Analiza matematyczna 1	Marzantowicz Wac³aw	3	13.00
+2011-12-03	10.45	A2-21	 	ZASI UIO 1WA - Analiza wybranych systemów informatycznych	Wydzia³ Wydzia³	3	13.00
+2011-12-03	10.45	A2-23	 	ZWSP UI3 1WA - Przedmiot specjalizacyjny 2	Palka Zbigniew	3	13.00
+2011-12-03	11.00	A2-16	A2-17	REZ2 1WA - Rezerwacja - nasi pracownicy	Naskrêcki Bartosz	4	14.15
+2011-12-03	11.30	A2-24	 	MEN180 1CA - Metodyka nauczania matematyki	Sierocka Janina	3	13.45
+2011-12-03	11.45	A0-01	A1-14	REZ2 1WA - Rezerwacja - nasi pracownicy	Kalkowski Maciej	4	15.00
+2011-12-03	11.45	A1-22	A1-24	REZ2 1WA - Rezerwacja - nasi pracownicy	Kalkowski Maciej	4	15.00
+2011-12-03	11.45	A1-16	A1-18	REZ2 1WA - Rezerwacja - nasi pracownicy	Kalkowski Maciej	4	15.00
+2011-12-03	11.45	D-1	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kurc Wies³aw	4	15.00
+2011-12-03	13.30	aula B	 	BAD LIO 1WA - Bazy danych	Kaczmarek Jan	3	15.45
+2011-12-03	13.30	aula A	 	MAD LIO 1WA - Matematyka dyskretna	Jaworski Jerzy	3	15.45
+2011-12-03	13.30	A2-19	 	ZMAD LMO 1CA - Matematyka dyskretna	Jaworski Jerzy	3	15.45
+2011-12-03	13.30	A2-14	 	ZPED LM1 1WA - Pedagogika 1	Skipor-Rybacka Irena	3	15.45
+2011-12-03	13.30	A2-22	 	ZRME LMO 1CA - Repetytorium z matematyki elementarnej	Maciejewska Aleksandra	3	15.45
+2011-12-03	13.30	A2-23	 	ZMON UIO 1WA - Przedmiot monograficzny	Grzeœkowiak Maciej	3	15.45
+2011-12-03	13.30	A2-21	 	ZTSI UI1 1WA - Tworzenie systemów informatycznych	Gogolewski Marcin	3	15.45
+2011-12-03	14.00	A2-24	 	MEN180 1CA - Metodyka nauczania matematyki	Sierocka Janina	3	16.15
+2011-12-03	14.30	A2-16	A2-17	REZ2 1WA - Rezerwacja - nasi pracownicy	Rezerwacja R	2	16.00
+2011-12-03	15.15	A0-01	A1-14	REZ2 1WA - Rezerwacja - nasi pracownicy	Kalkowski Maciej	4	18.30
+2011-12-03	15.15	A1-22	A1-24	REZ2 1WA - Rezerwacja - nasi pracownicy	Kalkowski Maciej	4	18.30
+2011-12-03	15.15	A1-16	A1-18	REZ2 1WA - Rezerwacja - nasi pracownicy	Kalkowski Maciej	4	18.30
+2011-12-03	15.15	D-1	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kurc Wies³aw	4	18.30
+2011-12-04	08.15	A1-14	A1-15	PPR LIO 1CC - Podstawy programowania	Szymañski Jerzy	3	10.30
+2011-12-04	08.15	A2-24	 	MAD LIO 1CA - Matematyka dyskretna	Jaworski Jerzy	3	10.30
+2011-12-04	08.15	aula B	 	AUT LIO 1WA - Automaty i jêzyki formalne	Kandulski Maciej	3	10.30
+2011-12-04	08.15	A2-19	 	JAN LI1 1CB - Jêzyk angielski	Grygiel Grzegorz	3	10.30
+2011-12-04	08.15	A1-16	A1-17	ZTXL UI0 1CA - Technologie XML	Pi³ka Tomasz	3	10.30
+2011-12-04	08.15	A2-14	 	ZSEM UI1 1CA - Seminarium magisterskie 1	Palka Zbigniew	3	10.30
+2011-12-04	09.00	A2-23	 	ANP181 1WA - Analiza matematyczna	K¹kol Jerzy	3	11.15
+2011-12-04	10.45	A1-14	A1-15	PPR LIO 1CA - Podstawy programowania	Szymañski Jerzy	3	13.00
+2011-12-04	10.45	A1-16	A1-17	AUT LIO 1CA - Automaty i jêzyki formalne	Graliñski Filip	3	13.00
+2011-12-04	10.45	A2-24	 	MAD LIO 1CB - Matematyka dyskretna	Jaworski Jerzy	3	13.00
+2011-12-04	10.45	A2-19	 	JAN LI1 1CC - Jêzyk angielski	Grygiel Grzegorz	3	13.00
+2011-12-04	10.45	A2-14	 	JAN LI3 1CB - Jêzyk angielski 3	Znaniecki Przemys³aw	3	13.00
+2011-12-04	10.45	A1-24	A1-25	ZLPI UIO 1CB - Logiczne podstawy informatyki	Ko³owska-Gawiejnowicz Miros³awa	3	13.00
+2011-12-04	10.45	A1-22	A1-23	ZTSI UI1 1CA - Tworzenie systemów informatycznych	Pi³ka Tomasz	3	13.00
+2011-12-04	10.45	A2-22	 	ZSEM UI3 1CA - Seminarium magisterskie 3	Wydzia³ Wydzia³	3	13.00
+2011-12-04	11.30	A2-23	 	ALP180 1WA - Algebra	Szulc Tomasz	3	13.45
+2011-12-04	13.30	A1-14	A1-15	PPR LIO 1CB - Podstawy programowania	Szymañski Jerzy	3	15.45
+2011-12-04	13.30	A1-16	A1-17	AUT LIO 1CB - Automaty i jêzyki formalne	Graliñski Filip	3	15.45
+2011-12-04	13.30	A2-24	 	MAD LIO 1CC - Matematyka dyskretna	Nitschke £ukasz	3	15.45
+2011-12-04	13.30	A2-19	 	JAN LI1 1CA - Jêzyk angielski	Grygiel Grzegorz	3	15.45
+2011-12-04	13.30	A2-14	 	JAN LI3 1CA - Jêzyk angielski 3	Znaniecki Przemys³aw	3	15.45
+2011-12-04	13.30	A1-24	A1-25	ZLPI UIO 1CA - Logiczne podstawy informatyki	Ko³owska-Gawiejnowicz Miros³awa	3	15.45
+2011-12-04	13.30	A1-18	A1-20	ZPRO UIO 1CA - Projekt - magisterski	Wydzia³ Wydzia³	3	15.45
+2011-12-04	13.30	A1-22	A1-23	ZTSI UI1 1CB - Tworzenie systemów informatycznych	Pi³ka Tomasz	3	15.45
+2011-12-04	14.00	A2-23	 	ALP180 1WA - Algebra	Szulc Tomasz	3	16.15
+2011-12-04	16.00	A1-14	A1-15	ZSTD UIO 1CB - Struktury dyskretne	Szymañski Jerzy	3	18.15
+2011-12-04	16.00	A2-22	 	ZTXL UI0 1WA - Technologie XML	Pi³ka Tomasz	3	18.15
+2011-12-09	13.00	A2-21	 	ZRAP LMO 1WA - Rachunek prawdopodobieñstwa	Wachowiak Jan	3	15.15
+2011-12-09	13.00	A2-14	 	ZSEM UM1 1CA - Seminarium magisterskie 1	Kubiaczyk Ireneusz	3	15.15
+2011-12-09	13.00	A2-19	 	ZSPE UM3 1WA - Przedmiot specjalizacyjny 3	Sikorska-Nowak Aneta	3	15.15
+2011-12-09	13.00	A2-23	 	ZALG LMO 1WA - Wstêp do algebry i teorii liczb	Czarnowski Roman	3	15.15
+2011-12-09	13.00	A2-22	 	ZSOP LMO 1WA - Systemy operacyjne	Hañækowiak Micha³	3	15.15
+2011-12-09	13.00	A2-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Bednarska-Bzdêga Ma³gorzata	3	15.15
+2011-12-09	13.00	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Skrzypczak Leszek	3	15.15
+2011-12-09	13.45	A1-16	A1-17	REZ2 1WA - Rezerwacja - nasi pracownicy	Juskowiak Edyta	3	16.00
+2011-12-09	15.30	A2-21	 	ZANA LM3 1WA - Analiza matematyczna 3	Przybycieñ Hubert	3	17.45
+2011-12-09	15.30	A2-19	 	ZSPE UM3 1CA - Przedmiot specjalizacyjny 3	Sikorska-Nowak Aneta	3	17.45
+2011-12-09	15.30	A2-23	 	ZALG LMO 1CA - Wstêp do algebry i teorii liczb	Czarnowski Roman	3	17.45
+2011-12-09	15.30	A2-14	 	ZFUN UMO 1WA - Funkcje analityczne	Kubiaczyk Ireneusz	3	17.45
+2011-12-09	15.30	A0-01	 	ZSOP LMO 1CA - Systemy operacyjne	Hañækowiak Micha³	3	17.45
+2011-12-09	18.00	A2-19	 	ZSEM UM3 1CA - Seminarium magiosterskie 3	Kubiaczyk Ireneusz	3	20.15
+2011-12-09	18.00	A2-22	 	ZEMN LMO 1CA - Elementy metod numerycznych	Wojtera-Tyrakowska Dominika	3	20.15
+2011-12-09	18.00	A2-21	 	ZANA LM3 1CA - Analiza matematyczna 3	Przybycieñ Hubert	3	20.15
+2011-12-09	18.00	A2-14	 	ZFUN UMO 1CA - Funkcje analityczne	Rzonsowski Piotr	3	20.15
+2011-12-09	18.00	A2-23	 	ZJAN LM1 1CA - Jêzyk obcy 1	Kowalewski Tomasz	3	20.15
+2011-12-09	18.00	A2-08	 	ZSEM UM3 1CB - Seminarium magiosterskie 3	Grzybowski Jerzy	3	20.15
+2011-12-09	18.00	A2-24	 	ZJAN LM1 1CB - Jêzyk obcy 1	Leœkiewicz Anna	3	20.15
+2011-12-10	08.15	aula A	 	MAD LIO 1WA - Matematyka dyskretna	Jaworski Jerzy	3	10.30
+2011-12-10	08.15	A2-24	 	SPE LI2 1WA - Przedmiot specjalizacyjny 2	Szymañski Jerzy	3	10.30
+2011-12-10	08.15	aula B	 	SOP LIO 1WA - Systemy operacyjne	Gogolewski Marcin	3	10.30
+2011-12-10	08.15	A1-14	A1-15	ZBAD LMO 1CA - Bazy danych	Kaczmarek Jan	3	10.30
+2011-12-10	08.15	A1-16	A1-17	ZTIE LMO 1CA - Technologia informacyjna w edukacji	Karolak Tomasz	3	10.30
+2011-12-10	08.15	A2-23	 	ZANA LM1 1WA - Analiza matematyczna 1	Marzantowicz Wac³aw	3	10.30
+2011-12-10	08.15	A2-19	 	ZTOP UM0 1WA - Topologia	K¹kol Jerzy	2	09.45
+2011-12-10	08.15	A2-22	 	ZFAK UM2 1WA - Przedmiot fakultatywny 2	Wachowiak Jan	3	10.30
+2011-12-10	08.15	A2-21	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Pawlak Aleksandra	4	11.30
+2011-12-10	10.00	A2-19	 	ZANF UMO 1CA - Analiza funkcjonalna	Uetake Yoichi	3	12.15
+2011-12-10	10.00	A2-10	A2-11	REZ2 1WA - Rezerwacja - nasi pracownicy	Rezerwacja R	4	13.15
+2011-12-10	10.00	aula C	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Rezerwacja R	4	13.15
+2011-12-10	10.45	A1-16	A1-17	BAD LIO 1CB - Bazy danych	Pi³ka Tomasz	3	13.00
+2011-12-10	10.45	A1-14	A1-15	SOP LIO 1CA - Systemy operacyjne	Gogolewski Marcin	3	13.00
+2011-12-10	10.45	A2-24	 	MEN LWO 1WA - Elementy metod numerycznych	Szulc Tomasz	3	13.00
+2011-12-10	10.45	aula A	 	LOG LIO 1WA - Podstawy logiki i teorii mnogoœci	Murawski Roman	3	13.00
+2011-12-10	10.45	A1-22	A1-23	ZFAK UM2 1CA - Przedmiot fakultatywny 2	Wachowiak Jan	3	13.00
+2011-12-10	10.45	A2-14	 	ZBAD LMO 1WA - Bazy danych	Kaczmarek Jan	3	13.00
+2011-12-10	10.45	A2-22	 	ZMAD LMO 1WA - Matematyka dyskretna	Jaworski Jerzy	3	13.00
+2011-12-10	10.45	A2-23	 	ZANA LM1 1CA - Analiza matematyczna 1	Marzantowicz Wac³aw	3	13.00
+2011-12-10	11.00	A2-16	A2-17	REZ2 1WA - Rezerwacja - nasi pracownicy	Naskrêcki Bartosz	4	14.15
+2011-12-10	11.45	A2-21	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Pawlak Aleksandra	2	13.15
+2011-12-10	12.30	A2-19	 	ZTEM UMO 1WA - Teoria miary i ca³ki	Bugajewski Dariusz	2	14.00
+2011-12-10	13.30	A1-16	A1-17	BAD LIO 1CA - Bazy danych	Pi³ka Tomasz	3	15.45
+2011-12-10	13.30	A1-14	A1-15	SOP LIO 1CB - Systemy operacyjne	Gogolewski Marcin	3	15.45
+2011-12-10	13.30	aula A	 	NIF LIO 1WA - Podstawowe pojêcia i narzêdzia informatyki	Kaczmarek Jan	3	15.45
+2011-12-10	13.30	A2-24	 	HUM LW1 1WA - Przedmiot z nauk humanistycznych	Otto Wojciech	3	15.45
+2011-12-10	13.30	A2-21	 	ZMAD LMO 1CA - Matematyka dyskretna	Jaworski Jerzy	3	15.45
+2011-12-10	13.30	A2-14	 	ZPED LM1 1CA - Pedagogika 1	Skipor-Rybacka Irena	3	15.45
+2011-12-10	13.30	A2-23	 	ZWMA LMO 1CA - Wstêp do matematyki	Migda Janusz	3	15.45
+2011-12-10	13.30	A0-11	 	ZJAN UM2 1CA - Jêzyk angielski 2	Powêska Monika	3	15.45
+2011-12-10	13.30	A2-10	A2-11	REZ2 1WA - Rezerwacja - nasi pracownicy	Rezerwacja R	4	16.45
+2011-12-10	13.30	aula C	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Rezerwacja R	4	16.45
+2011-12-10	14.30	A2-19	 	ZTOP UM0 1CA - Topologia	Stachowiak-Gni³ka Danuta	3	16.45
+2011-12-10	14.30	A2-16	A2-17	REZ2 1WA - Rezerwacja - nasi pracownicy	Naskrêcki Bartosz	2	16.00
+2011-12-10	17.00	A2-10	A2-11	REZ2 1WA - Rezerwacja - nasi pracownicy	Rezerwacja R	2	18.30
+2011-12-10	17.00	aula C	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Rezerwacja R	2	18.30
+2011-12-11	08.15	A1-14	A1-15	NIF LIO 1CB - Podstawowe pojêcia i narzêdzia informatyki	Kaczmarek Jan	3	10.30
+2011-12-11	08.15	A2-23	 	MAD LIO 1CC - Matematyka dyskretna	Nitschke £ukasz	3	10.30
+2011-12-11	08.15	A2-14	 	TAS LIO 1WA - Technologie aplikacji serwerowych	Kurc Wies³aw	3	10.30
+2011-12-11	08.15	aula B	 	KCK LIO 1WA - Komunikacja cz³owiek-komputer	Kowalewski Wojciech	3	10.30
+2011-12-11	08.15	A2-22	 	LOG LIO 1CA - Podstawy logiki i teorii mnogoœci	Murawski Roman	3	10.30
+2011-12-11	10.00	A2-10	A2-11	REZ2 1WA - Rezerwacja - nasi pracownicy	Rezerwacja R	4	13.15
+2011-12-11	10.00	aula C	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Rezerwacja R	4	13.15
+2011-12-11	10.00	A2-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Ren-Kurc Anna	2	11.30
+2011-12-11	10.45	A1-16	A1-17	KCK LIO 1CA - Komunikacja cz³owiek-komputer	Gdala Tomasz	3	13.00
+2011-12-11	10.45	A1-14	A1-15	NIF LIO 1CC - Podstawowe pojêcia i narzêdzia informatyki	Kaczmarek Jan	3	13.00
+2011-12-11	10.45	A1-22	A1-23	SPE LI2 1CB - Przedmiot specjalizacyjny 2	Szymañski Jerzy	3	13.00
+2011-12-11	10.45	A2-23	 	MAD LIO 1CA - Matematyka dyskretna	Jaworski Jerzy	3	13.00
+2011-12-11	10.45	A0-01	 	TAS LIO 1CA - Technologie aplikacji serwerowych	Kurc Wies³aw	3	13.00
+2011-12-11	10.45	A2-22	 	LOG LIO 1CB - Podstawy logiki i teorii mnogoœci	Murawski Roman	3	13.00
+2011-12-11	10.45	A2-14	 	JAN LI3 1CB - Jêzyk angielski 3	Znaniecki Przemys³aw	3	13.00
+2011-12-11	13.30	A1-16	A1-17	KCK LIO 1CB - Komunikacja cz³owiek-komputer	Gdala Tomasz	3	15.45
+2011-12-11	13.30	A1-14	A1-15	NIF LIO 1CA - Podstawowe pojêcia i narzêdzia informatyki	Kaczmarek Jan	3	15.45
+2011-12-11	13.30	A1-22	A1-23	SPE LI2 1CA - Przedmiot specjalizacyjny 2	Szymañski Jerzy	3	15.45
+2011-12-11	13.30	A2-23	 	MAD LIO 1CB - Matematyka dyskretna	Jaworski Jerzy	3	15.45
+2011-12-11	13.30	A0-01	 	TAS LIO 1CB - Technologie aplikacji serwerowych	Kurc Wies³aw	3	15.45
+2011-12-11	13.30	A2-22	 	LOG LIO 1CC - Podstawy logiki i teorii mnogoœci	Murawski Roman	3	15.45
+2011-12-11	13.30	A2-14	 	JAN LI3 1CA - Jêzyk angielski 3	Znaniecki Przemys³aw	3	15.45
+2011-12-11	13.30	A2-10	A2-11	REZ2 1WA - Rezerwacja - nasi pracownicy	Rezerwacja R	4	16.45
+2011-12-11	13.30	aula C	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Rezerwacja R	4	16.45
+2011-12-11	17.00	A2-10	A2-11	REZ2 1WA - Rezerwacja - nasi pracownicy	Rezerwacja R	2	18.30
+2011-12-11	17.00	aula C	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Rezerwacja R	2	18.30
+2011-12-16	13.00	A2-22	 	ZRAP LMO 1WA - Rachunek prawdopodobieñstwa	Wachowiak Jan	3	15.15
+2011-12-16	13.00	A0-01	 	ZTEI LMO 1WA - Technologia informacyjna	Adamczak Magdalena	3	15.15
+2011-12-16	13.00	A2-19	 	ZSPE UM2 1WA - Przedmiot specjalizacyjny 2	Cichoñ Mieczys³aw	3	15.15
+2011-12-16	13.00	A2-14	 	ZROR LM1 1WA - Równania ró¿niczkowe	Kubiaczyk Ireneusz	3	15.15
+2011-12-16	13.00	A2-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Bednarska-Bzdêga Ma³gorzata	3	15.15
+2011-12-16	15.30	A0-01	 	ZTEI LMO 1CA - Technologia informacyjna	Adamczak Magdalena	3	17.45
+2011-12-16	15.30	A2-22	 	ZANA LM3 1WA - Analiza matematyczna 3	Przybycieñ Hubert	3	17.45
+2011-12-16	15.30	A2-19	 	ZSPE UM2 1CA - Przedmiot specjalizacyjny 2	Cichoñ Mieczys³aw	3	17.45
+2011-12-16	15.30	A2-14	 	ZROR LM1 1CA - Równania ró¿niczkowe	Kubiaczyk Ireneusz	3	17.45
+2011-12-16	18.00	A2-21	A0-01	ZEMN LMO 1CA - Elementy metod numerycznych	Wojtera-Tyrakowska Dominika	3	20.15
+2011-12-16	18.00	A2-19	 	ZSEM UM3 1CA - Seminarium magiosterskie 3	Kubiaczyk Ireneusz	3	20.15
+2011-12-16	18.00	A2-23	 	ZWMA LMO 1WA - Wstêp do matematyki	Bondecka-Krzykowska Izabela	3	20.15
+2011-12-16	18.00	A2-22	 	ZJAN LM3 1CA - Jêzyk angielski	Leœkiewicz Anna	3	20.15
+2011-12-16	18.00	A2-14	 	ZSEM UM3 1CB - Seminarium magiosterskie 3	Grzybowski Jerzy	3	20.15
+2011-12-16	18.00	A2-20	 	ZJAN LM3 1CB - Jêzyk angielski	Kowalewski Tomasz	3	20.15
+2011-12-17	08.15	aula B	 	BAD LIO 1WA - Bazy danych	Kaczmarek Jan	3	10.30
+2011-12-17	08.15	A2-24	 	MAD LIO 1CC - Matematyka dyskretna	Nitschke £ukasz	3	10.30
+2011-12-17	08.15	A2-22	 	SPE LI2 1WA - Przedmiot specjalizacyjny 2	Szymañski Jerzy	3	10.30
+2011-12-17	08.15	A2-14	 	ALI LIO 1CB - Wstêp do algebry liniowej i geometrii	Werbiñski Tadeusz	3	10.30
+2011-12-17	08.15	A2-21	 	JAN LI1 1CA - Jêzyk angielski	Grygiel Grzegorz	3	10.30
+2011-12-17	08.15	A2-20	 	ZPED LM1 1WA - Pedagogika 1	Skipor-Rybacka Irena	3	10.30
+2011-12-17	08.15	aula C	 	ZEMG LMO 1WA - Emisja g³osu	Gulczyñska Justyna	3	10.30
+2011-12-17	08.15	A2-19	 	ZANA LM1 1WA - Analiza matematyczna 1	Marzantowicz Wac³aw	3	10.30
+2011-12-17	08.15	A1-16	A1-17	ZTXL UI0 1CB - Technologie XML	Pi³ka Tomasz	3	10.30
+2011-12-17	08.15	A1-14	A1-15	ZMON UIO 1CA - Przedmiot monograficzny	Grzeœkowiak Maciej	3	10.30
+2011-12-17	08.15	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kurc Wies³aw	4	11.30
+2011-12-17	08.15	A2-23	 	ZLPI UIO 1WA - Logiczne podstawy informatyki	Buszkowski Wojciech	3	10.30
+2011-12-17	09.00	aula A	 	ANP181 1WA - Analiza matematyczna	K¹kol Jerzy	3	11.15
+2011-12-17	10.45	A1-14	A1-15	BAD LIO 1CA - Bazy danych	Pi³ka Tomasz	3	13.00
+2011-12-17	10.45	A1-16	A1-17	MEN LWO 1CB - Elementy metod numerycznych	Wojtera-Tyrakowska Dominika	3	13.00
+2011-12-17	10.45	A1-22	A1-23	SPE LI2 1CA - Przedmiot specjalizacyjny 2	Szymañski Jerzy	3	13.00
+2011-12-17	10.45	A2-24	 	MAD LIO 1CA - Matematyka dyskretna	Jaworski Jerzy	3	13.00
+2011-12-17	10.45	A2-14	 	ALI LIO 1CC - Wstêp do algebry liniowej i geometrii	Werbiñski Tadeusz	3	13.00
+2011-12-17	10.45	A2-21	 	JAN LI1 1CB - Jêzyk angielski	Grygiel Grzegorz	3	13.00
+2011-12-17	10.45	A2-20	 	JAN LI3 1CB - Jêzyk angielski 3	Znaniecki Przemys³aw	3	13.00
+2011-12-17	10.45	A2-22	 	ZALI LM2 1WA - Algebra liniowa 2	Czarnowski Roman	3	13.00
+2011-12-17	10.45	aula C	 	ZEMG LMO 1CA - Emisja g³osu	Gulczyñska Justyna	3	13.00
+2011-12-17	10.45	A2-19	 	ZANA LM1 1CA - Analiza matematyczna 1	Marzantowicz Wac³aw	3	13.00
+2011-12-17	10.45	aula B	 	ZMON UIO 1WA - Przedmiot monograficzny	Grzeœkowiak Maciej	3	13.00
+2011-12-17	10.45	A2-23	 	ZFAK UIO 1WA - Przedmiot fakultatywny 1	Kurc Wies³aw	3	13.00
+2011-12-17	11.00	A2-16	A2-17	REZ2 1WA - Rezerwacja - nasi pracownicy	Naskrêcki Bartosz	4	14.15
+2011-12-17	11.30	aula A	 	ANP181 1CA - Analiza matematyczna	Piszczek Krzysztof	3	13.45
+2011-12-17	11.45	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kurc Wies³aw	4	15.00
+2011-12-17	13.30	A1-14	A1-15	BAD LIO 1CB - Bazy danych	Pi³ka Tomasz	3	15.45
+2011-12-17	13.30	A1-16	A1-17	MEN LWO 1CA - Elementy metod numerycznych	Wojtera-Tyrakowska Dominika	3	15.45
+2011-12-17	13.30	A1-22	A1-23	SPE LI2 1CB - Przedmiot specjalizacyjny 2	Szymañski Jerzy	3	15.45
+2011-12-17	13.30	A2-24	 	MAD LIO 1CB - Matematyka dyskretna	Jaworski Jerzy	3	15.45
+2011-12-17	13.30	A2-14	 	ALI LIO 1CA - Wstêp do algebry liniowej i geometrii	Werbiñski Tadeusz	3	15.45
+2011-12-17	13.30	A2-21	 	JAN LI1 1CC - Jêzyk angielski	Grygiel Grzegorz	3	15.45
+2011-12-17	13.30	A2-20	 	JAN LI3 1CA - Jêzyk angielski 3	Znaniecki Przemys³aw	3	15.45
+2011-12-17	13.30	A2-03	 	ZMAD LMO 1CA - Matematyka dyskretna	Jaworski Jerzy	3	15.45
+2011-12-17	13.30	A2-22	 	ZALI LM2 1CA - Algebra liniowa 2	Czarnowski Roman	3	15.45
+2011-12-17	13.30	A2-19	 	ZFAK UM4 1WA - Przedmiot fakultatywny 4	Michalak Artur	3	15.45
+2011-12-17	13.30	A2-05	 	ZWMA LMO 1CA - Wstêp do matematyki	Migda Janusz	3	15.45
+2011-12-17	13.30	A1-24	A1-25	ZMON UIO 1CB - Przedmiot monograficzny	Grzeœkowiak Maciej	3	15.45
+2011-12-17	13.30	A2-23	 	ZASI UIO 1WA - Analiza wybranych systemów informatycznych	Wydzia³ Wydzia³	3	15.45
+2011-12-17	14.00	aula A	 	ANP181 1CA - Analiza matematyczna	Piszczek Krzysztof	3	16.15
+2011-12-17	14.30	A2-16	A2-17	REZ2 1WA - Rezerwacja - nasi pracownicy	Naskrêcki Bartosz	3	16.45
+2011-12-17	15.15	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kurc Wies³aw	4	18.30
+2011-12-18	08.15	A1-14	A1-15	PPR LIO 1CA - Podstawy programowania	Szymañski Jerzy	3	10.30
+2011-12-18	08.15	A1-16	A1-17	NIF LIO 1CB - Podstawowe pojêcia i narzêdzia informatyki	Kaczmarek Jan	3	10.30
+2011-12-18	08.15	aula B	 	ANI LI2 1WA - Analiza matematyczna dla informatyków 2	K¹kol Jerzy	3	10.30
+2011-12-18	08.15	A2-24	 	SPE LI3 1WA - Przedmiot specjalizacyjny 3	Grzeœkowiak Maciej	3	10.30
+2011-12-18	08.15	A2-22	 	JAN LI1 1CC - Jêzyk angielski	Grygiel Grzegorz	3	10.30
+2011-12-18	08.15	A1-22	A1-23	ZPRO UIO 1CA - Projekt - magisterski	Wydzia³ Wydzia³	3	10.30
+2011-12-18	08.15	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kurc Wies³aw	4	11.30
+2011-12-18	08.15	A2-23	 	ZSEM UI1 1CA - Seminarium magisterskie 1	Palka Zbigniew	3	10.30
+2011-12-18	09.00	A2-19	 	ALP180 1WA - Algebra	Szulc Tomasz	3	11.15
+2011-12-18	10.45	A1-22	A1-23	KCK LIO 1CB - Komunikacja cz³owiek-komputer	Gdala Tomasz	3	13.00
+2011-12-18	10.45	A1-14	A1-15	PPR LIO 1CB - Podstawy programowania	Szymañski Jerzy	3	13.00
+2011-12-18	10.45	A1-16	A1-17	NIF LIO 1CC - Podstawowe pojêcia i narzêdzia informatyki	Kaczmarek Jan	3	13.00
+2011-12-18	10.45	A2-23	 	STA LIO 1WA - Elementy statystyki	Wo³yñski Waldemar	3	13.00
+2011-12-18	10.45	A2-24	 	ANI LI2 1CA - Analiza matematyczna dla informatyków 2	K¹kol Jerzy	3	13.00
+2011-12-18	10.45	A2-22	 	JAN LI1 1CA - Jêzyk angielski	Grygiel Grzegorz	3	13.00
+2011-12-18	10.45	A1-24	A1-25	ZLPI UIO 1CB - Logiczne podstawy informatyki	Ko³owska-Gawiejnowicz Miros³awa	3	13.00
+2011-12-18	10.45	A1-18	A1-20	ZFAK UIO 1CA - Przedmiot fakultatywny 1	Gdala Tomasz	3	13.00
+2011-12-18	10.45	D-1	 	ZTXL UI0 1CA - Technologie XML	Pi³ka Tomasz	3	13.00
+2011-12-18	10.45	A2-21	 	ZWSP UI3 1CB - Przedmiot specjalizacyjny 2	Palka Zbigniew	3	13.00
+2011-12-18	11.30	A2-19	 	ALP180 1CA - Algebra	Werbiñski Tadeusz	3	13.45
+2011-12-18	11.45	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kurc Wies³aw	4	15.00
+2011-12-18	13.30	A1-22	A1-23	KCK LIO 1CA - Komunikacja cz³owiek-komputer	Gdala Tomasz	3	15.45
+2011-12-18	13.30	A1-14	A1-15	PPR LIO 1CC - Podstawy programowania	Szymañski Jerzy	3	15.45
+2011-12-18	13.30	A1-16	A1-17	NIF LIO 1CA - Podstawowe pojêcia i narzêdzia informatyki	Kaczmarek Jan	3	15.45
+2011-12-18	13.30	A2-24	 	ANI LI2 1CB - Analiza matematyczna dla informatyków 2	Tomasz Bernadeta	3	15.45
+2011-12-18	13.30	A2-23	 	HUM LW1 1WA - Przedmiot z nauk humanistycznych	Otto Wojciech	3	15.45
+2011-12-18	13.30	A2-22	 	JAN LI1 1CB - Jêzyk angielski	Grygiel Grzegorz	3	15.45
+2011-12-18	13.30	A1-24	A1-25	ZLPI UIO 1CA - Logiczne podstawy informatyki	Ko³owska-Gawiejnowicz Miros³awa	3	15.45
+2011-12-18	13.30	A1-18	A1-20	ZFAK UIO 1CB - Przedmiot fakultatywny 1	Gdala Tomasz	3	15.45
+2011-12-18	13.30	D-1	 	ZTXL UI0 1CB - Technologie XML	Pi³ka Tomasz	3	15.45
+2011-12-18	13.30	A2-21	 	ZWSP UI3 1CA - Przedmiot specjalizacyjny 2	Palka Zbigniew	3	15.45
+2011-12-18	14.00	A2-19	 	ALP180 1CA - Algebra	Werbiñski Tadeusz	3	16.15
+2011-12-18	15.15	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kurc Wies³aw	4	18.30
+2011-12-18	16.00	A2-21	 	ZTXL UI0 1WA - Technologie XML	Pi³ka Tomasz	3	18.15
+2012-01-07	08.15	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kurc Wies³aw	4	11.30
+2012-01-07	11.45	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kurc Wies³aw	4	15.00
+2012-01-07	15.15	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kurc Wies³aw	4	18.30
+2012-01-08	08.15	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kurc Wies³aw	4	11.30
+2012-01-08	11.45	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kurc Wies³aw	4	15.00
+2012-01-08	15.15	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kurc Wies³aw	4	18.30
+2012-01-13	13.00	A2-24	 	ZBAD LMO 1WA - Bazy danych	Kaczmarek Jan	3	15.15
+2012-01-13	13.00	A2-14	 	ZSEM UM3 1CA - Seminarium magiosterskie 3	Kubiaczyk Ireneusz	3	15.15
+2012-01-13	13.00	A2-19	 	ZANF UMO 1WA - Analiza funkcjonalna	K¹kol Jerzy	3	15.15
+2012-01-13	13.00	A0-12	 	ZKME LMO 1CA - Konwersatorium z matematyki elementarnej	Maciejewska Aleksandra	3	15.15
+2012-01-13	13.00	A2-21	 	ZJAN LM1 1CA - Jêzyk obcy 1	Kowalewski Tomasz	3	15.15
+2012-01-13	13.00	A2-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Bednarska-Bzdêga Ma³gorzata	3	15.15
+2012-01-13	13.00	A2-22	 	ZSEM UM3 1CB - Seminarium magiosterskie 3	Grzybowski Jerzy	3	15.15
+2012-01-13	13.00	A2-23	 	ZJAN LM1 1CB - Jêzyk obcy 1	Leœkiewicz Anna	3	15.15
+2012-01-13	15.30	A1-14	A1-15	ZBAD LMO 1CA - Bazy danych	Kaczmarek Jan	3	17.45
+2012-01-13	15.30	A2-14	 	ZSPE UM3 1WA - Przedmiot specjalizacyjny 3	Sikorska-Nowak Aneta	3	17.45
+2012-01-13	15.30	A2-21	 	ZALG LMO 1WA - Wstêp do algebry i teorii liczb	Czarnowski Roman	3	17.45
+2012-01-13	15.30	A2-19	 	ZFUN UMO 1WA - Funkcje analityczne	Kubiaczyk Ireneusz	3	17.45
+2012-01-13	15.30	A2-24	 	ZDIN LMO 1WA - Dydaktyka informatyki	Ren-Kurc Anna	3	17.45
+2012-01-13	18.00	A2-24	 	ZPED LM1 1CA - Pedagogika 1	Skipor-Rybacka Irena	3	20.15
+2012-01-13	18.00	A2-19	 	ZANF UMO 1CA - Analiza funkcjonalna	Uetake Yoichi	3	20.15
+2012-01-13	18.00	A2-14	 	ZSPE UM3 1CA - Przedmiot specjalizacyjny 3	Sikorska-Nowak Aneta	3	20.15
+2012-01-13	18.00	A2-21	 	ZALG LMO 1CA - Wstêp do algebry i teorii liczb	Czarnowski Roman	3	20.15
+2012-01-13	18.00	A0-01	 	ZDIN LMO 1CA - Dydaktyka informatyki	Ren-Kurc Anna	3	20.15
+2012-01-14	08.15	aula A	 	LOG LIO 1WA - Podstawy logiki i teorii mnogoœci	Murawski Roman	3	10.30
+2012-01-14	08.15	A2-24	 	HUM LW1 1WA - Przedmiot z nauk humanistycznych	Otto Wojciech	3	10.30
+2012-01-14	08.15	aula B	 	AUT LIO 1WA - Automaty i jêzyki formalne	Kandulski Maciej	3	10.30
+2012-01-14	08.15	A1-14	A1-15	ZEMN LMO 1CA - Elementy metod numerycznych	Wojtera-Tyrakowska Dominika	3	10.30
+2012-01-14	08.15	A2-14	 	ZRAP LMO 1WA - Rachunek prawdopodobieñstwa	Wachowiak Jan	3	10.30
+2012-01-14	08.15	A2-21	 	ZANA LM1 1WA - Analiza matematyczna 1	Marzantowicz Wac³aw	3	10.30
+2012-01-14	08.15	A2-22	 	ZFAK UM1 1WA - Przedmiot fakultatywny 1	Gajda Wojciech	3	10.30
+2012-01-14	08.15	A2-04	 	ZFAK UM4 1CA - Przedmiot fakultatywny 4	Michalak Artur	3	10.30
+2012-01-14	08.15	A1-16	A1-17	ZPRO UIO 1CA - Projekt - magisterski	Wydzia³ Wydzia³	3	10.30
+2012-01-14	09.00	A2-19	 	MEN180 1CA - Metodyka nauczania matematyki	Sierocka Janina	3	11.15
+2012-01-14	10.45	A1-22	A1-23	BAD LIO 1CB - Bazy danych	Pi³ka Tomasz	3	13.00
+2012-01-14	10.45	A1-16	A1-17	STA LIO 1CB - Elementy statystyki	Wo³yñski Waldemar	3	13.00
+2012-01-14	10.45	A1-14	A1-15	AUT LIO 1CA - Automaty i jêzyki formalne	Graliñski Filip	3	13.00
+2012-01-14	10.45	A0-01	 	TAS LIO 1CA - Technologie aplikacji serwerowych	Kurc Wies³aw	3	13.00
+2012-01-14	10.45	aula A	 	PPR LIO 1WA - Podstawy programowania	Szymañski Jerzy	3	13.00
+2012-01-14	10.45	A2-21	 	ZANA LM1 1CA - Analiza matematyczna 1	Marzantowicz Wac³aw	3	13.00
+2012-01-14	10.45	A2-24	 	ZANA LM3 1WA - Analiza matematyczna 3	Przybycieñ Hubert	3	13.00
+2012-01-14	10.45	A2-22	 	ZFAK UM1 1CA - Przedmiot fakultatywny 1	Gajda Wojciech	3	13.00
+2012-01-14	10.45	A2-04	 	ZFAK UM2 1WA - Przedmiot fakultatywny 2	Wachowiak Jan	3	13.00
+2012-01-14	10.45	A2-14	 	ZSOP LMO 1WA - Systemy operacyjne	Hañækowiak Micha³	3	13.00
+2012-01-14	10.45	A2-23	 	ZSEM UI3 1CA - Seminarium magisterskie 3	Wydzia³ Wydzia³	3	13.00
+2012-01-14	11.00	A2-16	A2-17	REZ2 1WA - Rezerwacja - nasi pracownicy	Naskrêcki Bartosz	4	14.15
+2012-01-14	11.30	A2-19	 	ALP180 1CA - Algebra	Werbiñski Tadeusz	3	13.45
+2012-01-14	13.30	A1-22	A1-23	BAD LIO 1CA - Bazy danych	Pi³ka Tomasz	3	15.45
+2012-01-14	13.30	A1-16	A1-17	STA LIO 1CA - Elementy statystyki	Wo³yñski Waldemar	3	15.45
+2012-01-14	13.30	A1-14	A1-15	AUT LIO 1CB - Automaty i jêzyki formalne	Graliñski Filip	3	15.45
+2012-01-14	13.30	A0-01	 	TAS LIO 1CB - Technologie aplikacji serwerowych	Kurc Wies³aw	3	15.45
+2012-01-14	13.30	aula A	 	ALI LIO 1WA - Wstêp do algebry liniowej i geometrii	Szulc Tomasz	3	15.45
+2012-01-14	13.30	A1-24	A1-25	ZFAK UM2 1CA - Przedmiot fakultatywny 2	Wachowiak Jan	3	15.45
+2012-01-14	13.30	A1-18	A1-20	ZSOP LMO 1CA - Systemy operacyjne	Hañækowiak Micha³	3	15.45
+2012-01-14	13.30	A2-21	 	ZTEI LMO 1WA - Technologia informacyjna	Adamczak Magdalena	3	15.45
+2012-01-14	13.30	A2-24	 	ZANA LM3 1CA - Analiza matematyczna 3	Przybycieñ Hubert	3	15.45
+2012-01-14	13.30	A2-22	 	ZFUN UMO 1CA - Funkcje analityczne	Rzonsowski Piotr	3	15.45
+2012-01-14	13.30	D-1	 	ZMON UIO 1CB - Przedmiot monograficzny	Grzeœkowiak Maciej	3	15.45
+2012-01-14	14.00	A2-19	 	ALP180 1CA - Algebra	Werbiñski Tadeusz	3	16.15
+2012-01-14	14.30	A2-16	A2-17	REZ2 1WA - Rezerwacja - nasi pracownicy	Naskrêcki Bartosz	2	16.00
+2012-01-15	08.15	A2-24	 	MAD LIO 1CC - Matematyka dyskretna	Nitschke £ukasz	3	10.30
+2012-01-15	08.15	A2-22	 	LOG LIO 1CA - Podstawy logiki i teorii mnogoœci	Murawski Roman	3	10.30
+2012-01-15	08.15	A2-23	 	SPE LI3 1WA - Przedmiot specjalizacyjny 3	Grzeœkowiak Maciej	3	10.30
+2012-01-15	08.15	A2-19	 	ALI LIO 1CB - Wstêp do algebry liniowej i geometrii	Werbiñski Tadeusz	3	10.30
+2012-01-15	08.15	aula B	 	SOP LIO 1WA - Systemy operacyjne	Gogolewski Marcin	3	10.30
+2012-01-15	08.15	A2-21	 	ZWSP UI3 1WA - Przedmiot specjalizacyjny 2	Palka Zbigniew	3	10.30
+2012-01-15	09.00	aula C	 	ANP181 1WA - Analiza matematyczna	K¹kol Jerzy	3	11.15
+2012-01-15	10.45	A1-16	A1-17	SPE LI2 1CA - Przedmiot specjalizacyjny 2	Szymañski Jerzy	3	13.00
+2012-01-15	10.45	A1-22	A1-23	SPE LI3 1CB - Przedmiot specjalizacyjny 3	Grzeœkowiak Maciej	3	13.00
+2012-01-15	10.45	A1-14	A1-15	SOP LIO 1CA - Systemy operacyjne	Gogolewski Marcin	3	13.00
+2012-01-15	10.45	A2-24	 	MAD LIO 1CA - Matematyka dyskretna	Jaworski Jerzy	3	13.00
+2012-01-15	10.45	A2-22	 	LOG LIO 1CB - Podstawy logiki i teorii mnogoœci	Murawski Roman	3	13.00
+2012-01-15	10.45	A2-19	 	ALI LIO 1CC - Wstêp do algebry liniowej i geometrii	Werbiñski Tadeusz	3	13.00
+2012-01-15	10.45	A2-20	 	JAN LI3 1CB - Jêzyk angielski 3	Znaniecki Przemys³aw	3	13.00
+2012-01-15	10.45	A1-18	A1-20	ZTXL UI0 1CA - Technologie XML	Pi³ka Tomasz	3	13.00
+2012-01-15	10.45	A2-14	A2-14	ZWSP UI3 1CB - Przedmiot specjalizacyjny 2	Palka Zbigniew	3	13.00
+2012-01-15	11.30	aula C	 	MEN180 1CA - Metodyka nauczania matematyki	Sierocka Janina	3	13.45
+2012-01-15	13.30	A1-16	A1-17	SPE LI2 1CB - Przedmiot specjalizacyjny 2	Szymañski Jerzy	3	15.45
+2012-01-15	13.30	A1-22	A1-23	SPE LI3 1CA - Przedmiot specjalizacyjny 3	Grzeœkowiak Maciej	3	15.45
+2012-01-15	13.30	A1-14	A1-15	SOP LIO 1CB - Systemy operacyjne	Gogolewski Marcin	3	15.45
+2012-01-15	13.30	A2-24	 	MAD LIO 1CB - Matematyka dyskretna	Jaworski Jerzy	3	15.45
+2012-01-15	13.30	A2-22	 	LOG LIO 1CC - Podstawy logiki i teorii mnogoœci	Murawski Roman	3	15.45
+2012-01-15	13.30	A2-19	 	ALI LIO 1CA - Wstêp do algebry liniowej i geometrii	Werbiñski Tadeusz	3	15.45
+2012-01-15	13.30	A2-20	 	JAN LI3 1CA - Jêzyk angielski 3	Znaniecki Przemys³aw	3	15.45
+2012-01-15	13.30	A1-18	A1-20	ZTXL UI0 1CB - Technologie XML	Pi³ka Tomasz	3	15.45
+2012-01-15	13.30	A2-14	A2-14	ZWSP UI3 1CA - Przedmiot specjalizacyjny 2	Palka Zbigniew	3	15.45
+2012-01-15	14.00	aula C	 	MEN180 1CA - Metodyka nauczania matematyki	Sierocka Janina	3	16.15
+2012-01-15	16.00	A2-21	 	ZTXL UI0 1WA - Technologie XML	Pi³ka Tomasz	3	18.15
+2012-01-20	13.00	A2-14	 	ZEMN LMO 1WA - Elementy metod numerycznych	Szulc Tomasz	3	15.15
+2012-01-20	13.00	A2-24	 	ZWMA LMO 1WA - Wstêp do matematyki	Bondecka-Krzykowska Izabela	3	15.15
+2012-01-20	13.00	A2-21	 	ZJAN LM3 1CA - Jêzyk angielski	Leœkiewicz Anna	3	15.15
+2012-01-20	13.00	A2-19	 	ZJAN UM2 1CA - Jêzyk angielski 2	Powêska Monika	3	15.15
+2012-01-20	13.00	A2-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Bednarska-Bzdêga Ma³gorzata	3	15.15
+2012-01-20	13.00	A2-22	 	ZJAN LM3 1CB - Jêzyk angielski	Kowalewski Tomasz	3	15.15
+2012-01-20	13.45	A1-16	A1-17	REZ2 1WA - Rezerwacja - nasi pracownicy	Juskowiak Edyta	3	16.00
+2012-01-20	13.45	aula A	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Rezerwacja R	3	16.00
+2012-01-20	15.30	A2-21	 	ZANA LM3 1CA - Analiza matematyczna 3	Przybycieñ Hubert	3	17.45
+2012-01-20	15.30	A2-19	 	ZSPE UM2 1WA - Przedmiot specjalizacyjny 2	Cichoñ Mieczys³aw	3	17.45
+2012-01-20	15.30	A2-24	 	ZWMA LMO 1CA - Wstêp do matematyki	Migda Janusz	3	17.45
+2012-01-20	15.30	A2-14	 	ZROR LM1 1WA - Równania ró¿niczkowe	Kubiaczyk Ireneusz	3	17.45
+2012-01-20	17.00	aula C	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Wachowiak Jan	2	18.30
+2012-01-20	18.00	A2-21	 	ZRAP LMO 1WA - Rachunek prawdopodobieñstwa	Wachowiak Jan	3	20.15
+2012-01-20	18.00	A2-19	 	ZSPE UM2 1CA - Przedmiot specjalizacyjny 2	Cichoñ Mieczys³aw	3	20.15
+2012-01-20	18.00	A2-24	 	ZJAN LM1 1CA - Jêzyk obcy 1	Kowalewski Tomasz	3	20.15
+2012-01-20	18.00	A2-14	 	ZROR LM1 1CA - Równania ró¿niczkowe	Kubiaczyk Ireneusz	3	20.15
+2012-01-20	18.00	A2-23	 	ZJAN LM1 1CB - Jêzyk obcy 1	Leœkiewicz Anna	3	20.15
+2012-01-21	08.15	aula A	 	MAD LIO 1WA - Matematyka dyskretna	Jaworski Jerzy	3	10.30
+2012-01-21	08.15	aula B	 	ANI LI2 1WA - Analiza matematyczna dla informatyków 2	K¹kol Jerzy	3	10.30
+2012-01-21	08.15	A1-14	A1-15	ZBAD LMO 1CA - Bazy danych	Kaczmarek Jan	3	10.30
+2012-01-21	08.15	A2-24	 	ZANA LM1 1WA - Analiza matematyczna 1	Marzantowicz Wac³aw	3	10.30
+2012-01-21	08.15	A2-21	 	ZDIN LMO 1WA - Dydaktyka informatyki	Ren-Kurc Anna	3	10.30
+2012-01-21	08.15	aula C	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Rezerwacja R	4	11.30
+2012-01-21	08.15	D-1	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kurc Wies³aw	4	11.30
+2012-01-21	08.15	A2-22	 	ZSTD UIO 1WA - Struktury dyskretne	Szymañski Jerzy	3	10.30
+2012-01-21	10.45	aula B	 	BAD LIO 1WA - Bazy danych	Kaczmarek Jan	3	13.00
+2012-01-21	10.45	aula A	 	LOG LIO 1WA - Podstawy logiki i teorii mnogoœci	Murawski Roman	3	13.00
+2012-01-21	10.45	A2-21	 	ZALI LM2 1WA - Algebra liniowa 2	Czarnowski Roman	3	13.00
+2012-01-21	10.45	A2-24	 	ZANA LM1 1CA - Analiza matematyczna 1	Marzantowicz Wac³aw	3	13.00
+2012-01-21	10.45	A0-01	 	ZDIN LMO 1CA - Dydaktyka informatyki	Ren-Kurc Anna	3	13.00
+2012-01-21	10.45	A1-14	A1-15	REZ2 1WA - Rezerwacja - nasi pracownicy	Rezerwacja R	3	13.00
+2012-01-21	10.45	A1-24	A1-25	REZ2 1WA - Rezerwacja - nasi pracownicy	Rezerwacja R	3	13.00
+2012-01-21	10.45	A1-16	A1-17	ZSTD UIO 1CA - Struktury dyskretne	Szymañski Jerzy	3	13.00
+2012-01-21	10.45	A1-22	A1-23	ZTSI UI1 1CB - Tworzenie systemów informatycznych	Pi³ka Tomasz	3	13.00
+2012-01-21	11.00	A2-16	A2-17	REZ2 1WA - Rezerwacja - nasi pracownicy	Naskrêcki Bartosz	4	14.15
+2012-01-21	11.30	aula C	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Rezerwacja R	4	14.45
+2012-01-21	11.45	D-1	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kurc Wies³aw	4	15.00
+2012-01-21	13.30	aula A	 	ALI LIO 1WA - Wstêp do algebry liniowej i geometrii	Szulc Tomasz	3	15.45
+2012-01-21	13.30	aula B	 	AUT LIO 1WA - Automaty i jêzyki formalne	Kandulski Maciej	3	15.45
+2012-01-21	13.30	A1-14	A1-15	ZTEI LMO 1CA - Technologia informacyjna	Adamczak Magdalena	3	15.45
+2012-01-21	13.30	A1-24	A1-25	ZTIE LMO 1CA - Technologia informacyjna w edukacji	Karolak Tomasz	3	15.45
+2012-01-21	13.30	A2-21	 	ZALI LM2 1CA - Algebra liniowa 2	Czarnowski Roman	3	15.45
+2012-01-21	13.30	A2-14	 	ZFAK UM4 1CA - Przedmiot fakultatywny 4	Michalak Artur	3	15.45
+2012-01-21	13.30	A1-16	A1-17	ZSTD UIO 1CB - Struktury dyskretne	Szymañski Jerzy	3	15.45
+2012-01-21	13.30	A1-22	A1-23	ZTSI UI1 1CA - Tworzenie systemów informatycznych	Pi³ka Tomasz	3	15.45
+2012-01-21	14.30	A2-16	A2-17	REZ2 1WA - Rezerwacja - nasi pracownicy	Naskrêcki Bartosz	2	16.00
+2012-01-21	14.45	aula C	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Rezerwacja R	4	18.00
+2012-01-21	15.15	D-1	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kurc Wies³aw	4	18.30
+2012-01-21	16.00	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Wojtera-Tyrakowska Dominika	3	18.15
+2012-01-21	18.00	aula C	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Rezerwacja R	2	19.30
+2012-01-22	08.15	A1-14	A1-15	PPR LIO 1CB - Podstawy programowania	Szymañski Jerzy	3	10.30
+2012-01-22	08.15	A2-24	 	LOG LIO 1CA - Podstawy logiki i teorii mnogoœci	Murawski Roman	3	10.30
+2012-01-22	08.15	aula B	 	SOP LIO 1WA - Systemy operacyjne	Gogolewski Marcin	3	10.30
+2012-01-22	08.15	A2-14	 	JAN LI1 1CC - Jêzyk angielski	Grygiel Grzegorz	3	10.30
+2012-01-22	08.15	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kurc Wies³aw	4	11.30
+2012-01-22	08.15	A2-22	 	ZASI UIO 1WA - Analiza wybranych systemów informatycznych	Wydzia³ Wydzia³	3	10.30
+2012-01-22	10.45	A1-22	A1-23	KCK LIO 1CB - Komunikacja cz³owiek-komputer	Gdala Tomasz	3	13.00
+2012-01-22	10.45	A1-14	A1-15	PPR LIO 1CC - Podstawy programowania	Szymañski Jerzy	3	13.00
+2012-01-22	10.45	A1-16	A1-17	SOP LIO 1CA - Systemy operacyjne	Gogolewski Marcin	3	13.00
+2012-01-22	10.45	A2-24	 	LOG LIO 1CB - Podstawy logiki i teorii mnogoœci	Murawski Roman	3	13.00
+2012-01-22	10.45	A2-14	 	JAN LI1 1CA - Jêzyk angielski	Grygiel Grzegorz	3	13.00
+2012-01-22	10.45	A2-22	 	ZLPI UIO 1WA - Logiczne podstawy informatyki	Buszkowski Wojciech	3	13.00
+2012-01-22	11.45	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kurc Wies³aw	4	15.00
+2012-01-22	13.30	A1-22	A1-23	KCK LIO 1CA - Komunikacja cz³owiek-komputer	Gdala Tomasz	3	15.45
+2012-01-22	13.30	A1-14	A1-15	PPR LIO 1CA - Podstawy programowania	Szymañski Jerzy	3	15.45
+2012-01-22	13.30	A1-16	A1-17	SOP LIO 1CB - Systemy operacyjne	Gogolewski Marcin	3	15.45
+2012-01-22	13.30	A2-24	 	LOG LIO 1CC - Podstawy logiki i teorii mnogoœci	Murawski Roman	3	15.45
+2012-01-22	13.30	A2-14	 	JAN LI1 1CB - Jêzyk angielski	Grygiel Grzegorz	3	15.45
+2012-01-22	13.30	A2-22	 	ZFAK UIO 1WA - Przedmiot fakultatywny 1	Kurc Wies³aw	3	15.45
+2012-01-22	15.15	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kurc Wies³aw	4	18.30
+2012-01-27	13.00	A2-14	 	ZSEM UM1 1CA - Seminarium magisterskie 1	Kubiaczyk Ireneusz	3	15.15
+2012-01-27	13.00	A0-12	 	ZKME LMO 1CA - Konwersatorium z matematyki elementarnej	Maciejewska Aleksandra	3	15.15
+2012-01-27	13.00	A2-19	 	ZSPE UM3 1WA - Przedmiot specjalizacyjny 3	Sikorska-Nowak Aneta	3	15.15
+2012-01-27	13.00	A2-24	 	ZALG LMO 1WA - Wstêp do algebry i teorii liczb	Czarnowski Roman	3	15.15
+2012-01-27	13.00	A2-21	 	ZJAN LM3 1CA - Jêzyk angielski	Leœkiewicz Anna	3	15.15
+2012-01-27	13.00	A1-16	A1-17	REZ2 1WA - Rezerwacja - nasi pracownicy	Juskowiak Edyta	3	15.15
+2012-01-27	13.00	A2-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Bednarska-Bzdêga Ma³gorzata	3	15.15
+2012-01-27	13.00	A2-23	 	REZ2 1WA - Rezerwacja - nasi pracownicy	£ydka Adrian	3	15.15
+2012-01-27	13.00	A2-22	 	ZJAN LM3 1CB - Jêzyk angielski	Kowalewski Tomasz	3	15.15
+2012-01-27	15.30	A2-21	 	ZRAP LMO 1WA - Rachunek prawdopodobieñstwa	Wachowiak Jan	3	17.45
+2012-01-27	15.30	A0-01	 	ZTIE LMO 1CA - Technologia informacyjna w edukacji	Karolak Tomasz	3	17.45
+2012-01-27	15.30	A2-19	 	ZFAK UM1 1WA - Przedmiot fakultatywny 1	Gajda Wojciech	3	17.45
+2012-01-27	15.30	A2-20	 	ZFAK UM4 1WA - Przedmiot fakultatywny 4	Michalak Artur	3	17.45
+2012-01-27	15.30	A2-24	 	ZALG LMO 1CA - Wstêp do algebry i teorii liczb	Czarnowski Roman	3	17.45
+2012-01-27	18.00	A2-23	 	ZMAD LMO 1CA - Matematyka dyskretna	Jaworski Jerzy	3	20.15
+2012-01-27	18.00	A2-21	 	ZRAP LMO 1CA - Rachunek prawdopodobieñstwa	Wachowiak Jan	3	20.15
+2012-01-27	18.00	A2-19	 	ZFAK UM1 1CA - Przedmiot fakultatywny 1	Gajda Wojciech	3	20.15
+2012-01-27	18.00	A2-20	 	ZFAK UM4 1CA - Przedmiot fakultatywny 4	Michalak Artur	3	20.15
+2012-01-27	18.00	A2-24	 	ZJAN LM1 1CA - Jêzyk obcy 1	Kowalewski Tomasz	3	20.15
+2012-01-27	18.00	A2-22	 	ZJAN LM1 1CB - Jêzyk obcy 1	Leœkiewicz Anna	3	20.15
+2012-01-28	08.15	aula B	 	BAD LIO 1WA - Bazy danych	Kaczmarek Jan	3	10.30
+2012-01-28	08.15	aula A	 	MAD LIO 1WA - Matematyka dyskretna	Jaworski Jerzy	3	10.30
+2012-01-28	08.15	A2-24	 	STA LIO 1WA - Elementy statystyki	Wo³yñski Waldemar	3	10.30
+2012-01-28	08.15	A2-19	 	ZEMG LMO 1WA - Emisja g³osu	Gulczyñska Justyna	3	10.30
+2012-01-28	08.15	A2-22	 	ZANF UMO 1WA - Analiza funkcjonalna	K¹kol Jerzy	3	10.30
+2012-01-28	08.15	A2-21	 	ZANA LM1 1WA - Analiza matematyczna 1	Marzantowicz Wac³aw	3	10.30
+2012-01-28	08.15	A2-14	 	ZANA LM3 1WA - Analiza matematyczna 3	Przybycieñ Hubert	3	10.30
+2012-01-28	08.15	A2-20	 	ZFAK UM2 1WA - Przedmiot fakultatywny 2	Wachowiak Jan	3	10.30
+2012-01-28	08.15	A1-16	A1-17	REZ2 1WA - Rezerwacja - nasi pracownicy	Wo³yñski Waldemar	3	10.30
+2012-01-28	08.15	A0-01	A0-01	ZTXL UI0 1CA - Technologie XML	Pi³ka Tomasz	3	10.30
+2012-01-28	08.15	A0-01	A0-01	ZTXL UI0 1CB - Technologie XML	Pi³ka Tomasz	3	10.30
+2012-01-28	08.15	A1-14	A1-15	ZPRO UIO 1CA - Projekt - magisterski	Wydzia³ Wydzia³	3	10.30
+2012-01-28	08.15	A2-23	 	ZSTD UIO 1WA - Struktury dyskretne	Szymañski Jerzy	3	10.30
+2012-01-28	09.00	aula C	 	ALP180 1CA - Algebra	Werbiñski Tadeusz	3	11.15
+2012-01-28	10.45	A1-14	A1-15	BAD LIO 1CA - Bazy danych	Pi³ka Tomasz	3	13.00
+2012-01-28	10.45	A1-16	A1-17	AUT LIO 1CB - Automaty i jêzyki formalne	Graliñski Filip	3	13.00
+2012-01-28	10.45	A2-24	 	SPE LI3 1WA - Przedmiot specjalizacyjny 3	Grzeœkowiak Maciej	3	13.00
+2012-01-28	10.45	aula A	 	ALI LIO 1WA - Wstêp do algebry liniowej i geometrii	Szulc Tomasz	3	13.00
+2012-01-28	10.45	A1-18	A1-20	ZFAK UM2 1CA - Przedmiot fakultatywny 2	Wachowiak Jan	3	13.00
+2012-01-28	10.45	A2-19	 	ZEMG LMO 1CA - Emisja g³osu	Gulczyñska Justyna	3	13.00
+2012-01-28	10.45	A2-21	 	ZANA LM1 1CA - Analiza matematyczna 1	Marzantowicz Wac³aw	3	13.00
+2012-01-28	10.45	A2-14	 	ZANA LM3 1CA - Analiza matematyczna 3	Przybycieñ Hubert	3	13.00
+2012-01-28	10.45	A2-22	 	ZTOP UM0 1WA - Topologia	K¹kol Jerzy	2	12.15
+2012-01-28	10.45	A1-24	A1-25	ZLPI UIO 1CB - Logiczne podstawy informatyki	Ko³owska-Gawiejnowicz Miros³awa	3	13.00
+2012-01-28	10.45	A1-22	A1-23	ZSTD UIO 1CA - Struktury dyskretne	Szymañski Jerzy	3	13.00
+2012-01-28	10.45	A2-23	 	ZWSP UI3 1WA - Przedmiot specjalizacyjny 2	Palka Zbigniew	3	13.00
+2012-01-28	11.00	A2-16	A2-17	REZ2 1WA - Rezerwacja - nasi pracownicy	Naskrêcki Bartosz	4	14.15
+2012-01-28	11.30	aula C	 	ANP181 1CA - Analiza matematyczna	Piszczek Krzysztof	3	13.45
+2012-01-28	12.30	A2-22	 	ZTOP UM0 1CA - Topologia	Stachowiak-Gni³ka Danuta	2	14.00
+2012-01-28	13.30	A1-14	A1-15	BAD LIO 1CB - Bazy danych	Pi³ka Tomasz	3	15.45
+2012-01-28	13.30	A1-16	A1-17	AUT LIO 1CA - Automaty i jêzyki formalne	Graliñski Filip	3	15.45
+2012-01-28	13.30	aula A	 	LOG LIO 1WA - Podstawy logiki i teorii mnogoœci	Murawski Roman	3	15.45
+2012-01-28	13.30	A2-24	 	HUM LW1 1WA - Przedmiot z nauk humanistycznych	Otto Wojciech	3	15.45
+2012-01-28	13.30	A2-14	 	ZRAP LMO 1WA - Rachunek prawdopodobieñstwa	Wachowiak Jan	3	15.45
+2012-01-28	13.30	A2-21	 	ZWMA LMO 1WA - Wstêp do matematyki	Bondecka-Krzykowska Izabela	3	15.45
+2012-01-28	13.30	A2-19	 	ZDIN LMO 1WA - Dydaktyka informatyki	Ren-Kurc Anna	3	15.45
+2012-01-28	13.30	A1-24	A1-25	ZLPI UIO 1CA - Logiczne podstawy informatyki	Ko³owska-Gawiejnowicz Miros³awa	3	15.45
+2012-01-28	13.30	A1-22	A1-23	ZSTD UIO 1CB - Struktury dyskretne	Szymañski Jerzy	3	15.45
+2012-01-28	13.30	A2-23	 	ZSEM UI3 1CA - Seminarium magisterskie 3	Wydzia³ Wydzia³	3	15.45
+2012-01-28	14.00	aula C	 	ANP181 1CA - Analiza matematyczna	Piszczek Krzysztof	3	16.15
+2012-01-28	14.30	A2-22	 	ZTEM UMO 1CA - Teoria miary i ca³ki	Michalak Artur	2	16.00
+2012-01-28	14.30	A2-16	A2-17	REZ2 1WA - Rezerwacja - nasi pracownicy	Naskrêcki Bartosz	3	16.45
+2012-01-28	16.00	A0-01	 	ZDIN LMO 1CA - Dydaktyka informatyki	Ren-Kurc Anna	3	18.15
+2012-01-28	16.00	A2-21	 	ZTXL UI0 1WA - Technologie XML	Pi³ka Tomasz	3	18.15
+2012-01-29	08.15	A1-14	A1-15	PPR LIO 1CC - Podstawy programowania	Szymañski Jerzy	3	10.30
+2012-01-29	08.15	A2-24	 	MAD LIO 1CB - Matematyka dyskretna	Jaworski Jerzy	3	10.30
+2012-01-29	08.15	A2-22	 	TAS LIO 1WA - Technologie aplikacji serwerowych	Kurc Wies³aw	3	10.30
+2012-01-29	08.15	aula B	 	ANI LI2 1WA - Analiza matematyczna dla informatyków 2	K¹kol Jerzy	3	10.30
+2012-01-29	08.15	A2-21	 	ALI LIO 1CA - Wstêp do algebry liniowej i geometrii	Werbiñski Tadeusz	3	10.30
+2012-01-29	08.15	A1-24	A1-25	ZTXL UI0 1CB - Technologie XML	Pi³ka Tomasz	3	10.30
+2012-01-29	08.15	A2-23	A2-23	ZWSP UI3 1CA - Przedmiot specjalizacyjny 2	Palka Zbigniew	3	10.30
+2012-01-29	08.15	A2-14	 	ZTSI UI1 1WA - Tworzenie systemów informatycznych	Gogolewski Marcin	3	10.30
+2012-01-29	09.00	A2-20	 	ANP181 1CA - Analiza matematyczna	Piszczek Krzysztof	3	11.15
+2012-01-29	10.45	A1-16	A1-17	MEN LWO 1CB - Elementy metod numerycznych	Wojtera-Tyrakowska Dominika	3	13.00
+2012-01-29	10.45	A1-14	A1-15	PPR LIO 1CA - Podstawy programowania	Szymañski Jerzy	3	13.00
+2012-01-29	10.45	A2-24	 	MAD LIO 1CC - Matematyka dyskretna	Nitschke £ukasz	3	13.00
+2012-01-29	10.45	A0-01	 	TAS LIO 1CA - Technologie aplikacji serwerowych	Kurc Wies³aw	3	13.00
+2012-01-29	10.45	A2-22	 	ANI LI2 1CA - Analiza matematyczna dla informatyków 2	K¹kol Jerzy	3	13.00
+2012-01-29	10.45	A2-21	 	ALI LIO 1CB - Wstêp do algebry liniowej i geometrii	Werbiñski Tadeusz	3	13.00
+2012-01-29	10.45	A2-14	 	JAN LI3 1CB - Jêzyk angielski 3	Znaniecki Przemys³aw	3	13.00
+2012-01-29	10.45	A1-24	A1-25	ZTXL UI0 1CA - Technologie XML	Pi³ka Tomasz	3	13.00
+2012-01-29	10.45	A2-23	A2-23	ZWSP UI3 1CB - Przedmiot specjalizacyjny 2	Palka Zbigniew	3	13.00
+2012-01-29	10.45	aula B	 	REZ2 1WA - Rezerwacja - nasi pracownicy	K¹kol Jerzy	3	13.00
+2012-01-29	10.45	A2-19	 	ZASI UIO 1WA - Analiza wybranych systemów informatycznych	Wydzia³ Wydzia³	3	13.00
+2012-01-29	11.30	A2-20	 	MEN180 1CA - Metodyka nauczania matematyki	Sierocka Janina	3	13.45
+2012-01-29	13.30	A1-16	A1-17	MEN LWO 1CA - Elementy metod numerycznych	Wojtera-Tyrakowska Dominika	3	15.45
+2012-01-29	13.30	A1-14	A1-15	PPR LIO 1CB - Podstawy programowania	Szymañski Jerzy	3	15.45
+2012-01-29	13.30	A2-24	 	MAD LIO 1CA - Matematyka dyskretna	Jaworski Jerzy	3	15.45
+2012-01-29	13.30	A0-01	 	TAS LIO 1CB - Technologie aplikacji serwerowych	Kurc Wies³aw	3	15.45
+2012-01-29	13.30	A2-22	 	ANI LI2 1CB - Analiza matematyczna dla informatyków 2	Tomasz Bernadeta	3	15.45
+2012-01-29	13.30	A2-21	 	ALI LIO 1CC - Wstêp do algebry liniowej i geometrii	Werbiñski Tadeusz	3	15.45
+2012-01-29	13.30	A2-14	 	JAN LI3 1CA - Jêzyk angielski 3	Znaniecki Przemys³aw	3	15.45
+2012-01-29	13.30	A1-22	A1-23	ZMON UIO 1CA - Przedmiot monograficzny	Grzeœkowiak Maciej	3	15.45
+2012-01-29	13.30	A2-19	 	ZSEM UI1 1CA - Seminarium magisterskie 1	Palka Zbigniew	3	15.45
+2012-01-29	16.00	A2-21	 	ZTXL UI0 1WA - Technologie XML	Ren-Kurc Anna	3	18.15
+2012-02-03	13.00	A2-14	 	ZMAD LMO 1WA - Matematyka dyskretna	Jaworski Jerzy	3	15.15
+2012-02-03	13.00	A2-19	 	ZSEM UM1 1CA - Seminarium magisterskie 1	Kubiaczyk Ireneusz	3	15.15
+2012-02-03	13.00	A0-01	 	ZTEI LMO 1WA - Technologia informacyjna	Adamczak Magdalena	3	15.15
+2012-02-03	13.00	A2-23	 	ZFAK UM4 1WA - Przedmiot fakultatywny 4	Michalak Artur	3	15.15
+2012-02-03	13.00	A2-21	 	ZJAN LM3 1CA - Jêzyk angielski	Leœkiewicz Anna	3	15.15
+2012-02-03	13.00	A2-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Bednarska-Bzdêga Ma³gorzata	3	15.15
+2012-02-03	13.00	A2-20	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Wojtera-Tyrakowska Dominika	2	14.30
+2012-02-03	13.00	A2-22	 	ZJAN LM3 1CB - Jêzyk angielski	Kowalewski Tomasz	3	15.15
+2012-02-03	13.45	A1-16	A1-17	REZ2 1WA - Rezerwacja - nasi pracownicy	Juskowiak Edyta	3	16.00
+2012-02-03	15.30	A0-01	 	ZTEI LMO 1CA - Technologia informacyjna	Adamczak Magdalena	3	17.45
+2012-02-03	15.30	A2-21	 	ZANA LM3 1WA - Analiza matematyczna 3	Przybycieñ Hubert	3	17.45
+2012-02-03	15.30	A2-19	 	ZFUN UMO 1WA - Funkcje analityczne	Kubiaczyk Ireneusz	3	17.45
+2012-02-03	15.30	A2-14	 	ZDIN LMO 1WA - Dydaktyka informatyki	Ren-Kurc Anna	3	17.45
+2012-02-03	15.30	A2-05	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Migda Janusz	3	17.45
+2012-02-03	15.30	A2-23	 	ZFAK UM4 1CA - Przedmiot fakultatywny 4	Michalak Artur	3	17.45
+2012-02-03	18.00	A2-21	 	ZANA LM3 1CA - Analiza matematyczna 3	Przybycieñ Hubert	3	20.15
+2012-02-03	18.00	A2-24	 	ZWMA LMO 1CA - Wstêp do matematyki	Migda Janusz	3	20.15
+2012-02-03	18.00	A2-19	 	ZFUN UMO 1CA - Funkcje analityczne	Rzonsowski Piotr	3	20.15
+2012-02-03	18.00	A0-01	 	ZDIN LMO 1CA - Dydaktyka informatyki	Ren-Kurc Anna	3	20.15
+2012-02-03	18.00	A2-23	 	ZSEM UM3 1CA - Seminarium magiosterskie 3	Kubiaczyk Ireneusz	3	20.15
+2012-02-03	18.00	A2-22	 	ZSEM UM3 1CB - Seminarium magiosterskie 3	Grzybowski Jerzy	3	20.15
+2012-02-04	08.15	A1-16	A1-17	KCK LIO 1CB - Komunikacja cz³owiek-komputer	Gdala Tomasz	3	10.30
+2012-02-04	08.15	A1-14	A1-15	PPR LIO 1CB - Podstawy programowania	Szymañski Jerzy	3	10.30
+2012-02-04	08.15	A2-24	 	HUM LW1 1WA - Przedmiot z nauk humanistycznych	Otto Wojciech	3	10.30
+2012-02-04	08.15	A2-21	 	ALI LIO 1CA - Wstêp do algebry liniowej i geometrii	Werbiñski Tadeusz	3	10.30
+2012-02-04	08.15	A2-14	 	JAN LI1 1CC - Jêzyk angielski	Grygiel Grzegorz	3	10.30
+2012-02-04	08.15	A2-19	 	JAN LI3 1CA - Jêzyk angielski 3	Znaniecki Przemys³aw	3	10.30
+2012-02-04	08.15	A1-22	A1-23	ZSOP LMO 1CA - Systemy operacyjne	Hañækowiak Micha³	3	10.30
+2012-02-04	08.15	A2-20	 	ZRAP LMO 1WA - Rachunek prawdopodobieñstwa	Wachowiak Jan	3	10.30
+2012-02-04	08.15	A2-22	 	ZANA LM1 1WA - Analiza matematyczna 1	Marzantowicz Wac³aw	3	10.30
+2012-02-04	08.15	A2-23	 	ZFAK UM1 1WA - Przedmiot fakultatywny 1	Gajda Wojciech	3	10.30
+2012-02-04	10.45	A1-22	A1-23	MEN LWO 1CB - Elementy metod numerycznych	Wojtera-Tyrakowska Dominika	3	13.00
+2012-02-04	10.45	A1-16	A1-17	KCK LIO 1CA - Komunikacja cz³owiek-komputer	Gdala Tomasz	3	13.00
+2012-02-04	10.45	A1-14	A1-15	PPR LIO 1CC - Podstawy programowania	Szymañski Jerzy	3	13.00
+2012-02-04	10.45	A0-01	 	TAS LIO 1CA - Technologie aplikacji serwerowych	Kurc Wies³aw	3	13.00
+2012-02-04	10.45	A2-21	 	ALI LIO 1CB - Wstêp do algebry liniowej i geometrii	Werbiñski Tadeusz	3	13.00
+2012-02-04	10.45	A2-14	 	JAN LI1 1CA - Jêzyk angielski	Grygiel Grzegorz	3	13.00
+2012-02-04	10.45	A2-19	 	JAN LI3 1CB - Jêzyk angielski 3	Znaniecki Przemys³aw	3	13.00
+2012-02-04	10.45	A2-22	 	ZANA LM1 1CA - Analiza matematyczna 1	Marzantowicz Wac³aw	3	13.00
+2012-02-04	10.45	A2-20	 	ZANA LM3 1WA - Analiza matematyczna 3	Przybycieñ Hubert	3	13.00
+2012-02-04	10.45	A2-23	 	ZFAK UM1 1CA - Przedmiot fakultatywny 1	Gajda Wojciech	3	13.00
+2012-02-04	10.45	A2-24	 	ZSOP LMO 1WA - Systemy operacyjne	Hañækowiak Micha³	3	13.00
+2012-02-04	10.45	A2-08	 	ZFAK UM2 1WA - Przedmiot fakultatywny 2	Wachowiak Jan	3	13.00
+2012-02-04	11.00	A2-16	A2-17	REZ2 1WA - Rezerwacja - nasi pracownicy	Naskrêcki Bartosz	4	14.15
+2012-02-04	13.30	A1-22	A1-23	MEN LWO 1CA - Elementy metod numerycznych	Wojtera-Tyrakowska Dominika	3	15.45
+2012-02-04	13.30	A1-14	A1-15	PPR LIO 1CA - Podstawy programowania	Szymañski Jerzy	3	15.45
+2012-02-04	13.30	A0-01	 	TAS LIO 1CB - Technologie aplikacji serwerowych	Kurc Wies³aw	3	15.45
+2012-02-04	13.30	A2-21	 	ALI LIO 1CC - Wstêp do algebry liniowej i geometrii	Werbiñski Tadeusz	3	15.45
+2012-02-04	13.30	A2-14	 	JAN LI1 1CB - Jêzyk angielski	Grygiel Grzegorz	3	15.45
+2012-02-04	13.30	A2-24	 	ZMAD LMO 1CA - Matematyka dyskretna	Jaworski Jerzy	3	15.45
+2012-02-04	13.30	A2-23	 	ZTEM UMO 1WA - Teoria miary i ca³ki	Bugajewski Dariusz	2	15.00
+2012-02-04	13.30	A2-20	 	ZANA LM3 1CA - Analiza matematyczna 3	Przybycieñ Hubert	3	15.45
+2012-02-04	13.30	A1-16	A1-17	ZFAK UM2 1CA - Przedmiot fakultatywny 2	Wachowiak Jan	3	15.45
+2012-02-04	14.30	A2-16	A2-17	REZ2 1WA - Rezerwacja - nasi pracownicy	Naskrêcki Bartosz	3	16.45
+2012-02-04	15.15	A2-23	 	ZTEM UMO 1CA - Teoria miary i ca³ki	Michalak Artur	2	16.45
+2012-02-04	16.00	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Wojtera-Tyrakowska Dominika	4	19.15
+2012-02-05	08.15	A2-21	 	MAD LIO 1CA - Matematyka dyskretna	Jaworski Jerzy	3	10.30
+2012-02-05	08.15	A2-22	 	LOG LIO 1CC - Podstawy logiki i teorii mnogoœci	Murawski Roman	3	10.30
+2012-02-05	08.15	A2-14	 	JAN LI1 1CB - Jêzyk angielski	Grygiel Grzegorz	3	10.30
+2012-02-05	08.15	A2-24	 	SPE LI2 1WA - Przedmiot specjalizacyjny 2	Szymañski Jerzy	3	10.30
+2012-02-05	08.15	A2-19	 	ZASI UIO 1WA - Analiza wybranych systemów informatycznych	Wydzia³ Wydzia³	3	10.30
+2012-02-05	10.00	A2-23	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Ko³owska-Gawiejnowicz Miros³awa	3	12.15
+2012-02-05	10.45	A2-21	 	MAD LIO 1CB - Matematyka dyskretna	Jaworski Jerzy	3	13.00
+2012-02-05	10.45	A2-22	 	LOG LIO 1CA - Podstawy logiki i teorii mnogoœci	Murawski Roman	3	13.00
+2012-02-05	10.45	A2-14	 	JAN LI1 1CC - Jêzyk angielski	Grygiel Grzegorz	3	13.00
+2012-02-05	10.45	A1-14	A1-15	SPE LI2 1CA - Przedmiot specjalizacyjny 2	Szymañski Jerzy	3	13.00
+2012-02-05	10.45	A1-16	A1-17	SPE LI3 1CB - Przedmiot specjalizacyjny 3	Grzeœkowiak Maciej	3	13.00
+2012-02-05	10.45	A1-22	A1-23	ZLPI UIO 1CA - Logiczne podstawy informatyki	Ko³owska-Gawiejnowicz Miros³awa	3	13.00
+2012-02-05	10.45	A1-24	A1-25	ZTSI UI1 1CB - Tworzenie systemów informatycznych	Pi³ka Tomasz	3	13.00
+2012-02-05	12.30	A2-23	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Ko³owska-Gawiejnowicz Miros³awa	4	15.45
+2012-02-05	13.30	A2-21	 	MAD LIO 1CC - Matematyka dyskretna	Nitschke £ukasz	3	15.45
+2012-02-05	13.30	A2-22	 	LOG LIO 1CB - Podstawy logiki i teorii mnogoœci	Murawski Roman	3	15.45
+2012-02-05	13.30	A2-14	 	JAN LI1 1CA - Jêzyk angielski	Grygiel Grzegorz	3	15.45
+2012-02-05	13.30	A1-14	A1-15	SPE LI2 1CB - Przedmiot specjalizacyjny 2	Szymañski Jerzy	3	15.45
+2012-02-05	13.30	A1-16	A1-17	SPE LI3 1CA - Przedmiot specjalizacyjny 3	Grzeœkowiak Maciej	3	15.45
+2012-02-05	13.30	A1-22	A1-23	ZLPI UIO 1CB - Logiczne podstawy informatyki	Ko³owska-Gawiejnowicz Miros³awa	3	15.45
+2012-02-05	13.30	A1-24	A1-25	ZTSI UI1 1CA - Tworzenie systemów informatycznych	Pi³ka Tomasz	3	15.45
+2012-02-10	13.00	A0-01	 	ZBAD LMO 1CA - Bazy danych	Kaczmarek Jan	3	15.15
+2012-02-10	13.00	A2-14	 	ZSEM UM1 1CA - Seminarium magisterskie 1	Kubiaczyk Ireneusz	3	15.15
+2012-02-10	13.00	A2-23	 	ZEMN LMO 1WA - Elementy metod numerycznych	Szulc Tomasz	3	15.15
+2012-02-10	13.00	A2-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Bednarska-Bzdêga Ma³gorzata	3	15.15
+2012-02-10	13.00	A2-21	 	ZJAN UM2 1CA - Jêzyk angielski 2	Powêska Monika	3	15.15
+2012-02-10	15.30	A2-23	 	ZALI LM2 1WA - Algebra liniowa 2	Czarnowski Roman	3	17.45
+2012-02-10	15.30	A2-21	 	ZANF UMO 1WA - Analiza funkcjonalna	K¹kol Jerzy	3	17.45
+2012-02-10	15.30	A2-14	 	ZROR LM1 1WA - Równania ró¿niczkowe	Kubiaczyk Ireneusz	3	17.45
+2012-02-10	15.30	A2-19	 	ZSPE UM3 1WA - Przedmiot specjalizacyjny 3	Sikorska-Nowak Aneta	3	17.45
+2012-02-10	18.00	A2-23	 	ZALI LM2 1CA - Algebra liniowa 2	Czarnowski Roman	3	20.15
+2012-02-10	18.00	A2-21	 	ZANF UMO 1CA - Analiza funkcjonalna	Uetake Yoichi	3	20.15
+2012-02-10	18.00	A2-14	 	ZROR LM1 1CA - Równania ró¿niczkowe	Kubiaczyk Ireneusz	3	20.15
+2012-02-10	18.00	A2-19	 	ZSPE UM3 1CA - Przedmiot specjalizacyjny 3	Sikorska-Nowak Aneta	3	20.15
+2012-02-11	08.15	aula A	 	PPR LIO 1WA - Podstawy programowania	Szymañski Jerzy	3	10.30
+2012-02-11	08.15	A1-14	A1-15	ZEMN LMO 1CA - Elementy metod numerycznych	Wojtera-Tyrakowska Dominika	3	10.30
+2012-02-11	08.15	A2-14	 	ZFAK UM1 1CA - Przedmiot fakultatywny 1	Gajda Wojciech	3	10.30
+2012-02-11	08.15	A2-24	 	HUM LW1 1WA - Przedmiot z nauk humanistycznych	Otto Wojciech	3	10.30
+2012-02-11	08.15	A2-22	 	ZJAN LM3 1CA - Jêzyk angielski	Leœkiewicz Anna	3	10.30
+2012-02-11	08.15	A1-16	A1-17	ZMON UIO 1CA - Przedmiot monograficzny	Grzeœkowiak Maciej	3	10.30
+2012-02-11	08.15	A2-20	 	ZSPE UM2 1WA - Przedmiot specjalizacyjny 2	Cichoñ Mieczys³aw	3	10.30
+2012-02-11	08.15	A2-23	 	ZJAN LM3 1CB - Jêzyk angielski	Kowalewski Tomasz	3	10.30
+2012-02-11	09.00	A2-21	 	ANP181 1CA - Analiza matematyczna	Piszczek Krzysztof	3	11.15
+2012-02-11	10.45	aula A	 	MAD LIO 1WA - Matematyka dyskretna	Jaworski Jerzy	3	13.00
+2012-02-11	10.45	A2-14	 	ZMAD LMO 1CA - Matematyka dyskretna	Jaworski Jerzy	3	13.00
+2012-02-11	10.45	A2-22	 	ZANA LM3 1WA - Analiza matematyczna 3	Przybycieñ Hubert	3	13.00
+2012-02-11	10.45	A2-24	 	SPE LI2 1WA - Przedmiot specjalizacyjny 2	Szymañski Jerzy	3	13.00
+2012-02-11	10.45	A2-19	 	ZFUN UMO 1CA - Funkcje analityczne	Rzonsowski Piotr	3	13.00
+2012-02-11	10.45	A2-23	 	ZMON UIO 1WA - Przedmiot monograficzny	Grzeœkowiak Maciej	3	13.00
+2012-02-11	10.45	A2-20	 	ZSPE UM2 1CA - Przedmiot specjalizacyjny 2	Cichoñ Mieczys³aw	3	13.00
+2012-02-11	11.00	A2-16	A2-17	REZ2 1WA - Rezerwacja - nasi pracownicy	Naskrêcki Bartosz	4	14.15
+2012-02-11	11.30	A2-21	 	MEN180 1CA - Metodyka nauczania matematyki	Sierocka Janina	3	13.45
+2012-02-11	13.30	A2-14	 	ZMAD LMO 1WA - Matematyka dyskretna	Jaworski Jerzy	3	15.45
+2012-02-11	13.30	A2-24	 	MEN LWO 1WA - Elementy metod numerycznych	Szulc Tomasz	3	15.45
+2012-02-11	13.30	A2-22	 	ZANA LM3 1CA - Analiza matematyczna 3	Przybycieñ Hubert	3	15.45
+2012-02-11	13.30	A2-19	 	ZTOP UM0 1CA - Topologia	Stachowiak-Gni³ka Danuta	2	15.00
+2012-02-11	13.30	A1-16	A1-17	ZMON UIO 1CB - Przedmiot monograficzny	Grzeœkowiak Maciej	3	15.45
+2012-02-11	13.30	A2-20	 	ZFAK UM4 1CA - Przedmiot fakultatywny 4	Michalak Artur	3	15.45
+2012-02-11	14.00	A2-21	 	MEN180 1CA - Metodyka nauczania matematyki	Sierocka Janina	3	16.15
+2012-02-11	14.30	A2-16	A2-17	REZ2 1WA - Rezerwacja - nasi pracownicy	Naskrêcki Bartosz	2	16.00
+2012-02-12	08.15	A1-14	A1-15	PPR LIO 1CB - Podstawy programowania	Szymañski Jerzy	3	10.30
+2012-02-12	08.15	A2-22	 	MAD LIO 1CC - Matematyka dyskretna	Nitschke £ukasz	3	10.30
+2012-02-12	08.15	A2-14	 	JAN LI1 1CA - Jêzyk angielski	Grygiel Grzegorz	3	10.30
+2012-02-12	08.15	A1-16	A1-17	SPE LI3 1CA - Przedmiot specjalizacyjny 3	Grzeœkowiak Maciej	3	10.30
+2012-02-12	08.15	A2-24	 	ZWSP UI3 1WA - Przedmiot specjalizacyjny 2	Palka Zbigniew	3	10.30
+2012-02-12	09.00	A2-21	 	ANP181 1WA - Analiza matematyczna	K¹kol Jerzy	3	11.15
+2012-02-12	10.45	A1-14	A1-15	PPR LIO 1CC - Podstawy programowania	Szymañski Jerzy	3	13.00
+2012-02-12	10.45	A2-22	 	MAD LIO 1CA - Matematyka dyskretna	Jaworski Jerzy	3	13.00
+2012-02-12	10.45	A2-14	 	JAN LI1 1CB - Jêzyk angielski	Grygiel Grzegorz	3	13.00
+2012-02-12	10.45	A2-24	 	SPE LI3 1WA - Przedmiot specjalizacyjny 3	Grzeœkowiak Maciej	3	13.00
+2012-02-12	10.45	A2-23	A2-23	ZWSP UI3 1CA - Przedmiot specjalizacyjny 2	Palka Zbigniew	3	13.00
+2012-02-12	11.30	A2-21	 	MEN180 1CA - Metodyka nauczania matematyki	Sierocka Janina	3	13.45
+2012-02-12	13.30	A1-14	A1-15	PPR LIO 1CA - Podstawy programowania	Szymañski Jerzy	3	15.45
+2012-02-12	13.30	A2-22	 	MAD LIO 1CB - Matematyka dyskretna	Jaworski Jerzy	3	15.45
+2012-02-12	13.30	A2-14	 	JAN LI1 1CC - Jêzyk angielski	Grygiel Grzegorz	3	15.45
+2012-02-12	13.30	A1-16	A1-17	SPE LI3 1CB - Przedmiot specjalizacyjny 3	Grzeœkowiak Maciej	3	15.45
+2012-02-12	13.30	A2-23	A2-23	ZWSP UI3 1CB - Przedmiot specjalizacyjny 2	Palka Zbigniew	3	15.45
+2012-02-12	14.00	A2-21	 	MEN180 1CA - Metodyka nauczania matematyki	Sierocka Janina	3	16.15
+2012-02-12	14.00	aula A	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Szulc Tomasz	3	16.15
+2012-02-12	14.00	aula B	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Szulc Tomasz	3	16.15
+2012-02-17	13.00	A2-21	 	ZDIN LMO 1WA - Dydaktyka informatyki	Ren-Kurc Anna	3	15.15
+2012-02-17	13.00	A2-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Bednarska-Bzdêga Ma³gorzata	3	15.15
+2012-02-17	15.30	A0-01	 	ZDIN LMO 1CA - Dydaktyka informatyki	Ren-Kurc Anna	3	17.45
+2012-02-17	18.00	A0-01	 	ZTIE LMO 1CA - Technologia informacyjna w edukacji	Karolak Tomasz	3	20.15
+2012-02-18	08.15	A2-21	 	ZEMG LMO 1WA - Emisja g³osu	Gulczyñska Justyna	3	10.30
+2012-02-18	08.15	A2-23	 	ZJAN LM3 1CA - Jêzyk angielski	Leœkiewicz Anna	3	10.30
+2012-02-18	08.15	D-1	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kurc Wies³aw	4	11.30
+2012-02-18	08.15	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Wojtera-Tyrakowska Dominika	4	11.30
+2012-02-18	08.15	A2-19	 	ZSEM UI1 1CA - Seminarium magisterskie 1	Palka Zbigniew	3	10.30
+2012-02-18	08.15	A2-22	 	ZJAN LM3 1CB - Jêzyk angielski	Kowalewski Tomasz	3	10.30
+2012-02-18	10.00	aula B	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Szulc Tomasz	3	12.15
+2012-02-18	10.45	A2-23	 	ZRAP LMO 1WA - Rachunek prawdopodobieñstwa	Wachowiak Jan	4	14.00
+2012-02-18	10.45	A2-21	 	ZEMG LMO 1CA - Emisja g³osu	Gulczyñska Justyna	3	13.00
+2012-02-18	10.45	aula A	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Gogolewski Marcin	3	13.00
+2012-02-18	10.45	A2-19	 	ZASI UIO 1WA - Analiza wybranych systemów informatycznych	Wydzia³ Wydzia³	3	13.00
+2012-02-18	11.30	A0-01	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Wojtera-Tyrakowska Dominika	3	13.45
+2012-02-18	11.45	D-1	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kurc Wies³aw	4	15.00
+2012-02-18	13.00	aula A	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kaczmarek Jan	3	15.15
+2012-02-18	13.30	A1-14	A1-15	ZEMN LMO 1CA - Elementy metod numerycznych	Wojtera-Tyrakowska Dominika	2	15.00
+2012-02-18	13.30	A2-19	 	ZTSI UI1 1WA - Tworzenie systemów informatycznych	Gogolewski Marcin	3	15.45
+2012-02-18	14.30	A2-23	 	ZRAP LMO 1CA - Rachunek prawdopodobieñstwa	Wachowiak Jan	2	16.00
+2012-02-18	15.00	A1-14	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Wojtera-Tyrakowska Dominika	3	17.15
+2012-02-18	15.15	D-1	 	REZ2 1WA - Rezerwacja - nasi pracownicy	Kurc Wies³aw	4	18.30
+2012-02-19	08.15	A2-23	 	ZSTD UIO 1WA - Struktury dyskretne	Szymañski Jerzy	3	10.30
+2012-02-19	10.45	A1-14	A1-15	ZSTD UIO 1CA - Struktury dyskretne	Szymañski Jerzy	3	13.00
+2012-02-19	10.45	A1-16	A1-17	ZTSI UI1 1CB - Tworzenie systemów informatycznych	Pi³ka Tomasz	3	13.00
+2012-02-19	13.30	A1-14	A1-15	ZSTD UIO 1CB - Struktury dyskretne	Szymañski Jerzy	3	15.45
+2012-02-19	13.30	A1-16	A1-17	ZTSI UI1 1CA - Tworzenie systemów informatycznych	Pi³ka Tomasz	3	15.45

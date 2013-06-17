@@ -1,0 +1,8 @@
+#!/bin/bash
+#stronka zrodlowa http://www.sejm.gov.pl/poslowie/lista6.htm
+if [ $1 ];
+then
+curl -s $1|iconv -f iso8859-2 -t utf-8 |perl -ne ' if ($_=/>[^<> ]+ ([\S]+)[ ]?/){print "$1\n";} ' |perl -ne 'print "$_" if /[b-z]$/ ;'|sort| uniq -c|sort -k1,1nr|head -n 10
+else
+echo "brak adresu strony"
+fi
