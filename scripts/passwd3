@@ -1,0 +1,1 @@
+perl -ne 'print "$5\n" if $_ =~ /(.*):(.*):(.*):(.*):(.*[^a]\s)(.*)(\/home\/students)/' < passwd.txt | sort | uniq -c -i | sort -nr -k 1

@@ -530,4 +530,39 @@ public class TestDeterministicAutomaton extends TestCase {
         assertFalse(automaton.accepts("aaaaaaaaaaaaaa bbbbbbbb"));
         assertTrue(automaton.accepts("aaaaaabbbbbbbbbbbbbcccccccccccc"));
     }
+
+   /**
+   * Test na automacie akceptujacym napisy
+   * złożone z dowolnej (w tym zerowej) liczby znaków 'a',
+   * po której następuje parzysta (w tym zerowa) liczba znaków 'b'.
+   */
+    public final void testAutomatonAtwinB() {
+
+        DeterministicAutomatonSpecification spec =
+                new NaiveDeterministicAutomatonSpecification();
+        State q0a = spec.addState();
+        State q1a = spec.addState();
+        State q2a = spec.addState();
+
+        spec.markAsInitial(q0a);
+        spec.markAsFinal(q0a);
+        spec.markAsFinal(q2a);
+
+        spec.addLoop(q0a, new CharTransitionLabel('a'));
+        spec.addTransition(q0a, q1a, new CharTransitionLabel('b'));
+        spec.addTransition(q1a, q2a, new CharTransitionLabel('b'));
+        spec.addTransition(q2a, q1a, new CharTransitionLabel('b'));
+
+        DeterministicAutomaton automaton = new DeterministicAutomaton(spec);
+
+        assertTrue(automaton.accepts(""));
+        assertTrue(automaton.accepts("a"));
+        assertTrue(automaton.accepts("abb"));
+        assertTrue(automaton.accepts("bb"));
+        assertTrue(automaton.accepts("bbbb"));
+        assertFalse(automaton.accepts("ab"));
+        assertFalse(automaton.accepts("bbb"));
+        assertFalse(automaton.accepts("ba"));
+
+    }
 }
